@@ -1,0 +1,412 @@
+[
+  {
+    "build": "Spell_Caster",
+    "demand": "high",
+    "slot": "Staff",
+    "base": "Voltaic Staff",
+    "item_type": "Staves",
+    "base_cost_exalt": 0.02,
+    "craft_cost_exalt": 39.4,
+    "craft_cost_divine": 0.26,
+    "total_cost_divine": 0.26,
+    "estimated_sale_divine": 100,
+    "profit_divine": 99.7,
+    "roi_percent": 37951.8,
+    "craft_details": {
+      "total_exalt": 39.4,
+      "total_divine": 0.26,
+      "prefix_cost": 28.6,
+      "suffix_cost": 10.8,
+      "avg_essence_attempts": 9.5,
+      "details": [
+        {
+          "mod": "#% increased Spell Damage",
+          "type": "prefix",
+          "probability": 10.51,
+          "weight": 4350
+        },
+        {
+          "mod": "# to Level of all Physical Spell Skills",
+          "type": "suffix",
+          "probability": 18.49,
+          "weight": 13500
+        }
+      ]
+    }
+  },
+  {
+    "build": "Evasion_Bow",
+    "demand": "high",
+    "slot": "Bow",
+    "base": "Obliterator Bow",
+    "item_type": "Bows",
+    "base_cost_exalt": 0.01,
+    "craft_cost_exalt": 252.7,
+    "craft_cost_divine": 1.68,
+    "total_cost_divine": 1.68,
+    "estimated_sale_divine": 100,
+    "profit_divine": 98.3,
+    "roi_percent": 5835.8,
+    "craft_details": {
+      "total_exalt": 252.7,
+      "total_divine": 1.68,
+      "prefix_cost": 252.7,
+      "suffix_cost": 0,
+      "avg_essence_attempts": 84.2,
+      "details": [
+        {
+          "mod": "Adds # to # Physical Damage",
+          "type": "prefix",
+          "probability": 14.08,
+          "weight": 6300
+        },
+        {
+          "mod": "#% increased Physical Damage",
+          "type": "prefix",
+          "probability": 8.43,
+          "weight": 3775
+        }
+      ]
+    }
+  },
+  {
+    "build": "Spell_Caster",
+    "demand": "high",
+    "slot": "Wand",
+    "base": "Dueling Wand",
+    "item_type": "Wands",
+    "base_cost_exalt": 0.01,
+    "craft_cost_exalt": 39.4,
+    "craft_cost_divine": 0.26,
+    "total_cost_divine": 0.26,
+    "estimated_sale_divine": 80,
+    "profit_divine": 79.7,
+    "roi_percent": 30353.0,
+    "craft_details": {
+      "total_exalt": 39.4,
+      "total_divine": 0.26,
+      "prefix_cost": 28.6,
+      "suffix_cost": 10.8,
+      "avg_essence_attempts": 9.5,
+      "details": [
+        {
+          "mod": "#% increased Spell Damage",
+          "type": "prefix",
+          "probability": 10.51,
+          "weight": 4350
+        },
+        {
+          "mod": "# to Level of all Physical Spell Skills",
+          "type": "suffix",
+          "probability": 18.49,
+          "weight": 13500
+        }
+      ]
+    }
+  },
+  {
+    "build": "ES_Caster",
+    "demand": "very_high",
+    "slot": "Body Armour (ES)",
+    "base": "Conjurer Mantle",
+    "item_type": "Body_Armours_int",
+    "base_cost_exalt": 1,
+    "craft_cost_exalt": 448.2,
+    "craft_cost_divine": 2.99,
+    "total_cost_divine": 2.99,
+    "estimated_sale_divine": 80,
+    "profit_divine": 77.0,
+    "roi_percent": 2571.4,
+    "craft_details": {
+      "total_exalt": 448.2,
+      "total_divine": 2.99,
+      "prefix_cost": 412.9,
+      "suffix_cost": 35.2,
+      "avg_essence_attempts": 137.6,
+      "details": [
+        {
+          "mod": "# to maximum Energy Shield",
+          "type": "prefix",
+          "probability": 20.37,
+          "weight": 11000
+        },
+        {
+          "mod": "#% increased Energy Shield",
+          "type": "prefix",
+          "probability": 14.81,
+          "weight": 8000
+        },
+        {
+          "mod": "# to maximum Life",
+          "type": "prefix",
+          "probability": 24.07,
+          "weight": 13000
+        },
+        {
+          "mod": "#% to Fire Resistance",
+          "type": "suffix",
+          "probability": 11.35,
+          "weight": 8000
+        },
+        {
+          "mod": "#% to Cold Resistance",
+          "type": "suffix",
+          "probability": 11.35,
+          "weight": 8000
+        }
+      ]
+    }
+  },
+  {
+    "build": "Life_Melee",
+    "demand": "high",
+    "slot": "Body Armour (Armour)",
+    "base": "Sacrificial Regalia",
+    "item_type": "Body_Armours_str",
+    "base_cost_exalt": 1,
+    "craft_cost_exalt": 137.0,
+    "craft_cost_divine": 0.91,
+    "total_cost_divine": 0.92,
+    "estimated_sale_divine": 60,
+    "profit_divine": 59.1,
+    "roi_percent": 6421.7,
+    "craft_details": {
+      "total_exalt": 137.0,
+      "total_divine": 0.91,
+      "prefix_cost": 84.1,
+      "suffix_cost": 52.9,
+      "avg_essence_attempts": 28.0,
+      "details": [
+        {
+          "mod": "# to maximum Life",
+          "type": "prefix",
+          "probability": 24.07,
+          "weight": 13000
+        },
+        {
+          "mod": "#% increased Armour",
+          "type": "prefix",
+          "probability": 14.81,
+          "weight": 8000
+        },
+        {
+          "mod": "#% to Fire Resistance",
+          "type": "suffix",
+          "probability": 11.35,
+          "weight": 8000
+        },
+        {
+          "mod": "#% to Cold Resistance",
+          "type": "suffix",
+          "probability": 11.35,
+          "weight": 8000
+        },
+        {
+          "mod": "#% to Lightning Resistance",
+          "type": "suffix",
+          "probability": 11.35,
+          "weight": 8000
+        }
+      ]
+    }
+  },
+  {
+    "build": "Ring_Amulet",
+    "demand": "very_high",
+    "slot": "Amulet",
+    "base": "Gold Amulet",
+    "item_type": "Amulets",
+    "base_cost_exalt": 0.02,
+    "craft_cost_exalt": 1955.8,
+    "craft_cost_divine": 13.04,
+    "total_cost_divine": 13.04,
+    "estimated_sale_divine": 70,
+    "profit_divine": 57.0,
+    "roi_percent": 436.9,
+    "craft_details": {
+      "total_exalt": 1955.8,
+      "total_divine": 13.04,
+      "prefix_cost": 1930.7,
+      "suffix_cost": 25.2,
+      "avg_essence_attempts": 643.6,
+      "details": [
+        {
+          "mod": "# to maximum Life",
+          "type": "prefix",
+          "probability": 12.47,
+          "weight": 9000
+        },
+        {
+          "mod": "#% increased maximum Life",
+          "type": "prefix",
+          "probability": 1.25,
+          "weight": 900
+        },
+        {
+          "mod": "# to Strength",
+          "type": "suffix",
+          "probability": 7.95,
+          "weight": 8000
+        }
+      ]
+    }
+  },
+  {
+    "build": "Ring_Amulet",
+    "demand": "very_high",
+    "slot": "Ring",
+    "base": "Ruby Ring",
+    "item_type": "Rings",
+    "base_cost_exalt": 0.0,
+    "craft_cost_exalt": 72.6,
+    "craft_cost_divine": 0.48,
+    "total_cost_divine": 0.48,
+    "estimated_sale_divine": 50,
+    "profit_divine": 49.5,
+    "roi_percent": 10230.4,
+    "craft_details": {
+      "total_exalt": 72.6,
+      "total_divine": 0.48,
+      "prefix_cost": 26.1,
+      "suffix_cost": 46.5,
+      "avg_essence_attempts": 8.7,
+      "details": [
+        {
+          "mod": "# to maximum Life",
+          "type": "prefix",
+          "probability": 11.51,
+          "weight": 8000
+        },
+        {
+          "mod": "#% to Fire Resistance",
+          "type": "suffix",
+          "probability": 8.59,
+          "weight": 8000
+        },
+        {
+          "mod": "#% to Cold Resistance",
+          "type": "suffix",
+          "probability": 8.59,
+          "weight": 8000
+        }
+      ]
+    }
+  },
+  {
+    "build": "ES_Caster",
+    "demand": "very_high",
+    "slot": "Helmet (ES)",
+    "base": "Sandsworn Tiara",
+    "item_type": "Helmets_int",
+    "base_cost_exalt": 1,
+    "craft_cost_exalt": 184.5,
+    "craft_cost_divine": 1.23,
+    "total_cost_divine": 1.24,
+    "estimated_sale_divine": 50,
+    "profit_divine": 48.8,
+    "roi_percent": 3943.1,
+    "craft_details": {
+      "total_exalt": 184.5,
+      "total_divine": 1.23,
+      "prefix_cost": 169.2,
+      "suffix_cost": 15.2,
+      "avg_essence_attempts": 56.4,
+      "details": [
+        {
+          "mod": "# to maximum Energy Shield",
+          "type": "prefix",
+          "probability": 14.23,
+          "weight": 8000
+        },
+        {
+          "mod": "#% increased Energy Shield",
+          "type": "prefix",
+          "probability": 12.46,
+          "weight": 7000
+        },
+        {
+          "mod": "#% to Fire Resistance",
+          "type": "suffix",
+          "probability": 13.11,
+          "weight": 8000
+        }
+      ]
+    }
+  },
+  {
+    "build": "Life_Melee",
+    "demand": "high",
+    "slot": "Gloves (Armour)",
+    "base": "Cultist Gauntlets",
+    "item_type": "Gloves_str",
+    "base_cost_exalt": 1,
+    "craft_cost_exalt": 42.9,
+    "craft_cost_divine": 0.29,
+    "total_cost_divine": 0.29,
+    "estimated_sale_divine": 40,
+    "profit_divine": 39.7,
+    "roi_percent": 13567.4,
+    "craft_details": {
+      "total_exalt": 42.9,
+      "total_divine": 0.29,
+      "prefix_cost": 21.2,
+      "suffix_cost": 21.6,
+      "avg_essence_attempts": 7.1,
+      "details": [
+        {
+          "mod": "# to maximum Life",
+          "type": "prefix",
+          "probability": 14.13,
+          "weight": 9000
+        },
+        {
+          "mod": "#% to Fire Resistance",
+          "type": "suffix",
+          "probability": 9.25,
+          "weight": 8000
+        }
+      ]
+    }
+  },
+  {
+    "build": "Evasion_Bow",
+    "demand": "high",
+    "slot": "Boots (Evasion)",
+    "base": "Drakeskin Boots",
+    "item_type": "Boots_dex",
+    "base_cost_exalt": 1,
+    "craft_cost_exalt": 124.9,
+    "craft_cost_divine": 0.83,
+    "total_cost_divine": 0.84,
+    "estimated_sale_divine": 40,
+    "profit_divine": 39.2,
+    "roi_percent": 4665.7,
+    "craft_details": {
+      "total_exalt": 124.9,
+      "total_divine": 0.83,
+      "prefix_cost": 107.6,
+      "suffix_cost": 17.4,
+      "avg_essence_attempts": 35.9,
+      "details": [
+        {
+          "mod": "#% increased Movement Speed",
+          "type": "prefix",
+          "probability": 13.64,
+          "weight": 6000
+        },
+        {
+          "mod": "# to maximum Life",
+          "type": "prefix",
+          "probability": 20.45,
+          "weight": 9000
+        },
+        {
+          "mod": "#% to Fire Resistance",
+          "type": "suffix",
+          "probability": 11.5,
+          "weight": 8000
+        }
+      ]
+    }
+  }
+]

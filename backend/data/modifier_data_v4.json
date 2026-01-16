@@ -1,0 +1,5148 @@
+{
+  "Amulets": {
+    "item_type": "Amulets",
+    "prefix": [],
+    "suffix": [
+      {
+        "tier": 8,
+        "mod_name": "of the Brute",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(5—8) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Wrestler",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "+(9—12) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Bear",
+        "ilvl": 22,
+        "weight": 22,
+        "name": "+(13—16) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Lion",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(17—20) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Gorilla",
+        "ilvl": 44,
+        "weight": 44,
+        "name": "+(21—24) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Goliath",
+        "ilvl": 55,
+        "weight": 55,
+        "name": "+(25—27) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Leviathan",
+        "ilvl": 66,
+        "weight": 66,
+        "name": "+(28—30) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Titan",
+        "ilvl": 74,
+        "weight": 74,
+        "name": "+(31—33) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Mongoose",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(5—8) to Dexterity Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Lynx",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "+(9—12) to Dexterity Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Fox",
+        "ilvl": 22,
+        "weight": 22,
+        "name": "+(13—16) to Dexterity Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Falcon",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(17—20) to Dexterity Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Panther",
+        "ilvl": 44,
+        "weight": 44,
+        "name": "+(21—24) to Dexterity Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Leopard",
+        "ilvl": 55,
+        "weight": 55,
+        "name": "+(25—27) to Dexterity Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Jaguar",
+        "ilvl": 66,
+        "weight": 66,
+        "name": "+(28—30) to Dexterity Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Phantom",
+        "ilvl": 74,
+        "weight": 74,
+        "name": "+(31—33) to Dexterity Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Pupil",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(5—8) to Intelligence Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Student",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "+(9—12) to Intelligence Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Prodigy",
+        "ilvl": 22,
+        "weight": 22,
+        "name": "+(13—16) to Intelligence Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Augur",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(17—20) to Intelligence Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Philosopher",
+        "ilvl": 44,
+        "weight": 44,
+        "name": "+(21—24) to Intelligence Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Sage",
+        "ilvl": 55,
+        "weight": 55,
+        "name": "+(25—27) to Intelligence Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Savant",
+        "ilvl": 66,
+        "weight": 66,
+        "name": "+(28—30) to Intelligence Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Virtuoso",
+        "ilvl": 74,
+        "weight": 74,
+        "name": "+(31—33) to Intelligence Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "of the Clouds",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(2—4) to all Attributes Attribute 800",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Sky",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "+(5—7) to all Attributes Attribute 800",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Meteor",
+        "ilvl": 22,
+        "weight": 22,
+        "name": "+(8—10) to all Attributes Attribute 800",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Comet",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(11—13) to all Attributes Attribute 800",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Heavens",
+        "ilvl": 44,
+        "weight": 44,
+        "name": "+(14—16) to all Attributes Attribute 800",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Galaxy",
+        "ilvl": 55,
+        "weight": 55,
+        "name": "+(17—18) to all Attributes Attribute 800",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Universe",
+        "ilvl": 66,
+        "weight": 66,
+        "name": "+(19—20) to all Attributes Attribute 800",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Multiverse",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "+(21—22) to all Attributes Attribute 800",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Infinite",
+        "ilvl": 82,
+        "weight": 82,
+        "name": "+(23—24) to all Attributes Attribute 800",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Whelpling",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(6—10)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Salamander",
+        "ilvl": 12,
+        "weight": 12,
+        "name": "+(11—15)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Drake",
+        "ilvl": 24,
+        "weight": 24,
+        "name": "+(16—20)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Kiln",
+        "ilvl": 36,
+        "weight": 36,
+        "name": "+(21—25)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Furnace",
+        "ilvl": 48,
+        "weight": 48,
+        "name": "+(26—30)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Volcano",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "+(31—35)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Magma",
+        "ilvl": 71,
+        "weight": 71,
+        "name": "+(36—40)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Tzteosh",
+        "ilvl": 82,
+        "weight": 82,
+        "name": "+(41—45)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Seal",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(6—10)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Penguin",
+        "ilvl": 14,
+        "weight": 14,
+        "name": "+(11—15)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Narwhal",
+        "ilvl": 26,
+        "weight": 26,
+        "name": "+(16—20)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Yeti",
+        "ilvl": 38,
+        "weight": 38,
+        "name": "+(21—25)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Walrus",
+        "ilvl": 50,
+        "weight": 50,
+        "name": "+(26—30)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Polar Bear",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "+(31—35)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Ice",
+        "ilvl": 71,
+        "weight": 71,
+        "name": "+(36—40)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Haast",
+        "ilvl": 82,
+        "weight": 82,
+        "name": "+(41—45)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Cloud",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(6—10)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Squall",
+        "ilvl": 13,
+        "weight": 13,
+        "name": "+(11—15)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Storm",
+        "ilvl": 25,
+        "weight": 25,
+        "name": "+(16—20)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Thunderhead",
+        "ilvl": 37,
+        "weight": 37,
+        "name": "+(21—25)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Tempest",
+        "ilvl": 49,
+        "weight": 49,
+        "name": "+(26—30)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Maelstrom",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "+(31—35)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Lightning",
+        "ilvl": 71,
+        "weight": 71,
+        "name": "+(36—40)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ephij",
+        "ilvl": 82,
+        "weight": 82,
+        "name": "+(41—45)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Crystal",
+        "ilvl": 12,
+        "weight": 12,
+        "name": "+(3—5)% to all Elemental Resistances Elemental,Fire,Cold,Lightning,Resistance 800",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Prism",
+        "ilvl": 26,
+        "weight": 26,
+        "name": "+(6—8)% to all Elemental Resistances Elemental,Fire,Cold,Lightning,Resistance 800",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Kaleidoscope",
+        "ilvl": 40,
+        "weight": 40,
+        "name": "+(9—11)% to all Elemental Resistances Elemental,Fire,Cold,Lightning,Resistance 800",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Variegation",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "+(12—14)% to all Elemental Resistances Elemental,Fire,Cold,Lightning,Resistance 800",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Rainbow",
+        "ilvl": 68,
+        "weight": 68,
+        "name": "+(15—16)% to all Elemental Resistances Elemental,Fire,Cold,Lightning,Resistance 800",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Span",
+        "ilvl": 80,
+        "weight": 80,
+        "name": "+(17—18)% to all Elemental Resistances Elemental,Fire,Cold,Lightning,Resistance 800",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Lost",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "+(4—7)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Banishment",
+        "ilvl": 30,
+        "weight": 30,
+        "name": "+(8—11)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Eviction",
+        "ilvl": 44,
+        "weight": 44,
+        "name": "+(12—15)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Expulsion",
+        "ilvl": 56,
+        "weight": 56,
+        "name": "+(16—19)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Exile",
+        "ilvl": 68,
+        "weight": 68,
+        "name": "+(20—23)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Bameth",
+        "ilvl": 81,
+        "weight": 81,
+        "name": "+(24—27)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "Hale",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(10—19) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "Healthy",
+        "ilvl": 6,
+        "weight": 6,
+        "name": "+(20—29) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Sanguine",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "+(30—39) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Stalwart",
+        "ilvl": 24,
+        "weight": 24,
+        "name": "+(40—59) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Stout",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(60—69) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Robust",
+        "ilvl": 38,
+        "weight": 38,
+        "name": "+(70—84) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Rotund",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "+(85—99) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Virile",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "+(100—119) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Athlete's",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "+(120—149) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Hopeful",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "(3—4)% increased maximum Life Life 300",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Optimistic",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "(5—6)% increased maximum Life Life 300",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Confident",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "(7—8)% increased maximum Life Life 300",
+        "tags": []
+      },
+      {
+        "tier": 13,
+        "mod_name": "Beryl",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(10—14) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 12,
+        "mod_name": "Cobalt",
+        "ilvl": 6,
+        "weight": 6,
+        "name": "+(15—24) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 11,
+        "mod_name": "Azure",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "+(25—34) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 10,
+        "mod_name": "Teal",
+        "ilvl": 25,
+        "weight": 25,
+        "name": "+(35—54) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "Cerulean",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(55—64) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "Aqua",
+        "ilvl": 38,
+        "weight": 38,
+        "name": "+(65—79) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Opalescent",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "+(80—89) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Gentian",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "+(90—104) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Chalybeous",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "+(105—124) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Mazarine",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(125—149) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Blue",
+        "ilvl": 70,
+        "weight": 70,
+        "name": "+(150—164) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Zaffre",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "+(165—179) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Ultramarine",
+        "ilvl": 82,
+        "weight": 82,
+        "name": "+(180—189) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Cognizant",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "(3—4)% increased maximum Mana Mana 300",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Perceptive",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "(5—6)% increased maximum Mana Mana 300",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Mnemonic",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "(7—8)% increased maximum Mana Mana 300",
+        "tags": []
+      },
+      {
+        "tier": 10,
+        "mod_name": "Shining",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(8—14) to maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "Glimmering",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "+(15—20) to maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "Glittering",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "+(21—24) to maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Glowing",
+        "ilvl": 25,
+        "weight": 25,
+        "name": "+(25—33) to maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Radiating",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(34—41) to maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Pulsing",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "+(42—51) to maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Blazing",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "+(52—61) to maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Dazzling",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(62—70) to maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Scintillating",
+        "ilvl": 70,
+        "weight": 70,
+        "name": "+(71—79) to maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Incandescent",
+        "ilvl": 80,
+        "weight": 80,
+        "name": "+(80—89) to maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Reinforced",
+        "ilvl": 2,
+        "weight": 2,
+        "name": "(10—14)% increased Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Layered",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "(15—20)% increased Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Lobstered",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "(21—26)% increased Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Buttressed",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "(27—32)% increased Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Thickened",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "(33—38)% increased Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Girded",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(39—44)% increased Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Impregnable",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "(45—50)% increased Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Shade's",
+        "ilvl": 2,
+        "weight": 2,
+        "name": "(10—14)% increased Evasion Rating Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Ghost's",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "(15—20)% increased Evasion Rating Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Spectre's",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "(21—26)% increased Evasion Rating Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Wraith's",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "(27—32)% increased Evasion Rating Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Phantasm's",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "(33—38)% increased Evasion Rating Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Nightmare's",
+        "ilvl": 70,
+        "weight": 70,
+        "name": "(39—44)% increased Evasion Rating Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Mirage's",
+        "ilvl": 77,
+        "weight": 77,
+        "name": "(45—50)% increased Evasion Rating Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Protective",
+        "ilvl": 2,
+        "weight": 2,
+        "name": "(10—14)% increased maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Strong-Willed",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "(15—20)% increased maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Resolute",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "(21—26)% increased maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Fearless",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "(27—32)% increased maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Dauntless",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "(33—38)% increased maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Indomitable",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(39—44)% increased maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Unassailable",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "(45—50)% increased maximum Energy Shield Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Mage",
+        "ilvl": 10,
+        "weight": 10,
+        "name": "+1 to Level of all Spell Skills Caster,Gem 500",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Enchanter",
+        "ilvl": 41,
+        "weight": 41,
+        "name": "+2 to Level of all Spell Skills Caster,Gem 250",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Sorcerer",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "+3 to Level of all Spell Skills Caster,Gem 100",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Taskmaster",
+        "ilvl": 5,
+        "weight": 5,
+        "name": "+1 to Level of all Minion Skills Minion,Gem 500",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Despot",
+        "ilvl": 41,
+        "weight": 41,
+        "name": "+2 to Level of all Minion Skills Minion,Gem 250",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Overseer",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "+3 to Level of all Minion Skills Minion,Gem 100",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Combat",
+        "ilvl": 5,
+        "weight": 5,
+        "name": "+1 to Level of all Melee Skills Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Dueling",
+        "ilvl": 41,
+        "weight": 41,
+        "name": "+2 to Level of all Melee Skills Attack 250",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Battle",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "+3 to Level of all Melee Skills Attack 100",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Archer",
+        "ilvl": 5,
+        "weight": 5,
+        "name": "+1 to Level of all Projectile Skills 500",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Fletcher",
+        "ilvl": 41,
+        "weight": 41,
+        "name": "+2 to Level of all Projectile Skills 250",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Sharpshooter",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "+3 to Level of all Projectile Skills 100",
+        "tags": []
+      },
+      {
+        "tier": 10,
+        "mod_name": "of the Newt",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "(1—2) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "of the Lizard",
+        "ilvl": 5,
+        "weight": 5,
+        "name": "(2.1—3) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Flatworm",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "(3.1—4) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Starfish",
+        "ilvl": 17,
+        "weight": 17,
+        "name": "(4.1—6) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Hydra",
+        "ilvl": 26,
+        "weight": 26,
+        "name": "(6.1—9) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Troll",
+        "ilvl": 35,
+        "weight": 35,
+        "name": "(9.1—13) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Convalescence",
+        "ilvl": 47,
+        "weight": 47,
+        "name": "(13.1—18) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Recuperation",
+        "ilvl": 58,
+        "weight": 58,
+        "name": "(18.1—23) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Resurgence",
+        "ilvl": 68,
+        "weight": 68,
+        "name": "(23.1—29) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Immortality",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "(29.1—33) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of Excitement",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "(10—19)% increased Mana Regeneration Rate Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Joy",
+        "ilvl": 18,
+        "weight": 18,
+        "name": "(20—29)% increased Mana Regeneration Rate Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Elation",
+        "ilvl": 29,
+        "weight": 29,
+        "name": "(30—39)% increased Mana Regeneration Rate Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Bliss",
+        "ilvl": 42,
+        "weight": 42,
+        "name": "(40—49)% increased Mana Regeneration Rate Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Euphoria",
+        "ilvl": 55,
+        "weight": 55,
+        "name": "(50—59)% increased Mana Regeneration Rate Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Nirvana",
+        "ilvl": 79,
+        "weight": 79,
+        "name": "(60—69)% increased Mana Regeneration Rate Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Talent",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "(9—12)% increased Cast Speed Caster,Speed 800",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Nimbleness",
+        "ilvl": 15,
+        "weight": 15,
+        "name": "(13—16)% increased Cast Speed Caster,Speed 800",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Expertise",
+        "ilvl": 30,
+        "weight": 30,
+        "name": "(17—20)% increased Cast Speed Caster,Speed 800",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Sortilege",
+        "ilvl": 45,
+        "weight": 45,
+        "name": "(21—24)% increased Cast Speed Caster,Speed 800",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Legerdemain",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "(25—28)% increased Cast Speed Caster,Speed 800",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "Precise",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(11—32) to Accuracy Rating Attack 800",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Reliable",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "+(33—60) to Accuracy Rating Attack 800",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Focused",
+        "ilvl": 18,
+        "weight": 18,
+        "name": "+(61—84) to Accuracy Rating Attack 800",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Deliberate",
+        "ilvl": 26,
+        "weight": 26,
+        "name": "+(85—123) to Accuracy Rating Attack 800",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Consistent",
+        "ilvl": 36,
+        "weight": 36,
+        "name": "+(124—167) to Accuracy Rating Attack 800",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Steady",
+        "ilvl": 48,
+        "weight": 48,
+        "name": "+(168—236) to Accuracy Rating Attack 800",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Hunter's",
+        "ilvl": 58,
+        "weight": 58,
+        "name": "+(237—346) to Accuracy Rating Attack 800",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Ranger's",
+        "ilvl": 67,
+        "weight": 67,
+        "name": "+(347—450) to Accuracy Rating Attack 400",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of Menace",
+        "ilvl": 5,
+        "weight": 5,
+        "name": "(10—14)% increased Critical Hit Chance Critical 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Havoc",
+        "ilvl": 20,
+        "weight": 20,
+        "name": "(15—19)% increased Critical Hit Chance Critical 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Disaster",
+        "ilvl": 30,
+        "weight": 30,
+        "name": "(20—24)% increased Critical Hit Chance Critical 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Calamity",
+        "ilvl": 44,
+        "weight": 44,
+        "name": "(25—29)% increased Critical Hit Chance Critical 500",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Ruin",
+        "ilvl": 58,
+        "weight": 58,
+        "name": "(30—34)% increased Critical Hit Chance Critical 250",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Unmaking",
+        "ilvl": 72,
+        "weight": 72,
+        "name": "(35—38)% increased Critical Hit Chance Critical 125",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of Ire",
+        "ilvl": 8,
+        "weight": 8,
+        "name": "(10—14)% increased Critical Damage Bonus Damage,Critical 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Anger",
+        "ilvl": 21,
+        "weight": 21,
+        "name": "(15—19)% increased Critical Damage Bonus Damage,Critical 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Rage",
+        "ilvl": 31,
+        "weight": 31,
+        "name": "(20—24)% increased Critical Damage Bonus Damage,Critical 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Fury",
+        "ilvl": 45,
+        "weight": 45,
+        "name": "(25—29)% increased Critical Damage Bonus Damage,Critical 500",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Ferocity",
+        "ilvl": 59,
+        "weight": 59,
+        "name": "(30—34)% increased Critical Damage Bonus Damage,Critical 250",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Destruction",
+        "ilvl": 74,
+        "weight": 74,
+        "name": "(35—39)% increased Critical Damage Bonus Damage,Critical 125",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Plunder",
+        "ilvl": 3,
+        "weight": 3,
+        "name": "(6—10)% increased Rarity of Items found 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Raiding",
+        "ilvl": 24,
+        "weight": 24,
+        "name": "(11—14)% increased Rarity of Items found 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Archaeology",
+        "ilvl": 40,
+        "weight": 40,
+        "name": "(15—18)% increased Rarity of Items found 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Magpie's",
+        "ilvl": 10,
+        "weight": 10,
+        "name": "(8—11)% increased Rarity of Items found 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Collector's",
+        "ilvl": 29,
+        "weight": 29,
+        "name": "(12—15)% increased Rarity of Items found 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Hoarder's",
+        "ilvl": 47,
+        "weight": 47,
+        "name": "(16—19)% increased Rarity of Items found 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Lady's",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "+(30—33) to Spirit 500",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Baronness'",
+        "ilvl": 25,
+        "weight": 25,
+        "name": "+(34—37) to Spirit 500",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Viscountess'",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(38—42) to Spirit 500",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Marchioness'",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "+(43—46) to Spirit 500",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Countess'",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "+(47—50) to Spirit 400",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Mending",
+        "ilvl": 30,
+        "weight": 30,
+        "name": "(10—12)% of Damage taken Recouped as Life Life 500",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Bandaging",
+        "ilvl": 44,
+        "weight": 44,
+        "name": "(13—15)% of Damage taken Recouped as Life Life 500",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Stitching",
+        "ilvl": 56,
+        "weight": 56,
+        "name": "(16—18)% of Damage taken Recouped as Life Life 500",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Suturing",
+        "ilvl": 68,
+        "weight": 68,
+        "name": "(19—21)% of Damage taken Recouped as Life Life 500",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Fleshbinding",
+        "ilvl": 79,
+        "weight": 79,
+        "name": "(22—24)% of Damage taken Recouped as Life Life 500",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Reprieve",
+        "ilvl": 31,
+        "weight": 31,
+        "name": "(10—12)% of Damage taken Recouped as Mana Life,Mana 500",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Solace",
+        "ilvl": 45,
+        "weight": 45,
+        "name": "(13—15)% of Damage taken Recouped as Mana Life,Mana 500",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Tranquility",
+        "ilvl": 57,
+        "weight": 57,
+        "name": "(16—18)% of Damage taken Recouped as Mana Life,Mana 500",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Serenity",
+        "ilvl": 69,
+        "weight": 69,
+        "name": "(19—21)% of Damage taken Recouped as Mana Life,Mana 500",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Zen",
+        "ilvl": 80,
+        "weight": 80,
+        "name": "(22—24)% of Damage taken Recouped as Mana Life,Mana 500",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Apprentice's",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "(3—7)% increased Spell Damage Damage,Caster 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Adept's",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "(8—12)% increased Spell Damage Damage,Caster 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Scholar's",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "(13—17)% increased Spell Damage Damage,Caster 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Professor's",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "(18—22)% increased Spell Damage Damage,Caster 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Occultist's",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "(23—26)% increased Spell Damage Damage,Caster 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Incanter's",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "(27—30)% increased Spell Damage Damage,Caster 1000",
+        "tags": []
+      }
+    ],
+    "desecrated_prefix": [],
+    "desecrated_suffix": [
+      {
+        "tier": 1,
+        "mod_name": "Amanamu's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(15—25)% increased Global Defences amanamu,Defences",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Amanamu's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Remnants have (8—15)% increased effect amanamu",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Amanamu's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Minions deal (15—25)% increased Damage if you've Hit Recently amanamu,Damage,Minion",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Amanamu's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(35—50)% increased Armour from Equipped Body Armour amanamu,Defences",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Kurgal's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(15—25)% increased Spell Damage while on Full Energy Shield kurgal,Damage,Caster",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Kurgal's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Invocated Spells have (10—20)% chance to consume half as much Energy kurgal,Caster",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Kurgal's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(35—50)% increased Energy Shield from Equipped Body Armour kurgal,Defences",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Amanamu",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(9—15) to Strength and Intelligence amanamu,Attribute",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ulaman",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(9—15) to Strength and Dexterity ulaman,Attribute",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Amanamu",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(8—12)% increased Skill Effect Duration amanamu",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Amanamu",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Remnants can be collected from (20—30)% further away amanamu",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Amanamu",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(13—17)% to Fire and Chaos Resistances amanamu,Elemental,Fire,Chaos,Resistance",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Amanamu",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Aura Skills have (8—16)% increased Magnitudes amanamu",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Amanamu",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Equipment and Skill Gems have (10—15)% reduced Attribute Requirements amanamu",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Recover (2—3)% of maximum Mana on Kill kurgal,Mana",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(10—15)% increased Exposure Effect kurgal",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(8—12)% increased Cooldown Recovery Rate kurgal",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(13—17)% to Cold and Chaos Resistances kurgal,Elemental,Cold,Chaos,Resistance",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(9—15) to Dexterity and Intelligence kurgal,Attribute",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(3—5)% to Quality of all Skills kurgal,Gem",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(8—16)% of Damage is taken from Mana before Life kurgal,Life,Mana",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Minions have (12—20)% increased Cooldown Recovery Rate kurgal,Minion",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ulaman",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(3—6)% increased Skill Speed ulaman,Speed",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ulaman",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Recover (2—3)% of maximum Life on Kill ulaman,Life",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ulaman",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(13—17)% to Lightning and Chaos Resistances ulaman,Elemental,Lightning,Chaos,Resistance",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ulaman",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(10—20)% increased Reservation Efficiency of Herald Skills ulaman",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ulaman",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+1 to Level of all Skills ulaman,Gem",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Ulaman's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(20—30)% chance for Skills to retain 40% of Glory on use ulaman",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Ulaman's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(35—50)% increased Evasion Rating from Equipped Body Armour ulaman,Defences",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Ulaman's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(15—25)% increased Attack Damage while on Low Life ulaman",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Ulaman's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(10—20)% increased Deflection Rating ulaman,Defences",
+        "tags": [
+          "NaN"
+        ]
+      }
+    ]
+  },
+  "Rings": {
+    "item_type": "Rings",
+    "prefix": [],
+    "suffix": [
+      {
+        "tier": 8,
+        "mod_name": "of the Brute",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(5—8) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Wrestler",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "+(9—12) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Bear",
+        "ilvl": 22,
+        "weight": 22,
+        "name": "+(13—16) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Lion",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(17—20) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Gorilla",
+        "ilvl": 44,
+        "weight": 44,
+        "name": "+(21—24) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Goliath",
+        "ilvl": 55,
+        "weight": 55,
+        "name": "+(25—27) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Leviathan",
+        "ilvl": 66,
+        "weight": 66,
+        "name": "+(28—30) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Titan",
+        "ilvl": 74,
+        "weight": 74,
+        "name": "+(31—33) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Mongoose",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(5—8) to Dexterity Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Lynx",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "+(9—12) to Dexterity Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Fox",
+        "ilvl": 22,
+        "weight": 22,
+        "name": "+(13—16) to Dexterity Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Falcon",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(17—20) to Dexterity Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Panther",
+        "ilvl": 44,
+        "weight": 44,
+        "name": "+(21—24) to Dexterity Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Leopard",
+        "ilvl": 55,
+        "weight": 55,
+        "name": "+(25—27) to Dexterity Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Jaguar",
+        "ilvl": 66,
+        "weight": 66,
+        "name": "+(28—30) to Dexterity Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Phantom",
+        "ilvl": 74,
+        "weight": 74,
+        "name": "+(31—33) to Dexterity Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Pupil",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(5—8) to Intelligence Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Student",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "+(9—12) to Intelligence Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Prodigy",
+        "ilvl": 22,
+        "weight": 22,
+        "name": "+(13—16) to Intelligence Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Augur",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(17—20) to Intelligence Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Philosopher",
+        "ilvl": 44,
+        "weight": 44,
+        "name": "+(21—24) to Intelligence Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Sage",
+        "ilvl": 55,
+        "weight": 55,
+        "name": "+(25—27) to Intelligence Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Savant",
+        "ilvl": 66,
+        "weight": 66,
+        "name": "+(28—30) to Intelligence Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Virtuoso",
+        "ilvl": 74,
+        "weight": 74,
+        "name": "+(31—33) to Intelligence Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Clouds",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(2—4) to all Attributes Attribute 400",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Sky",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "+(5—7) to all Attributes Attribute 400",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Meteor",
+        "ilvl": 22,
+        "weight": 22,
+        "name": "+(8—10) to all Attributes Attribute 400",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Comet",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(11—13) to all Attributes Attribute 400",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Whelpling",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(6—10)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Salamander",
+        "ilvl": 12,
+        "weight": 12,
+        "name": "+(11—15)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Drake",
+        "ilvl": 24,
+        "weight": 24,
+        "name": "+(16—20)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Kiln",
+        "ilvl": 36,
+        "weight": 36,
+        "name": "+(21—25)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Furnace",
+        "ilvl": 48,
+        "weight": 48,
+        "name": "+(26—30)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Volcano",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "+(31—35)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Magma",
+        "ilvl": 71,
+        "weight": 71,
+        "name": "+(36—40)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Tzteosh",
+        "ilvl": 82,
+        "weight": 82,
+        "name": "+(41—45)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Seal",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(6—10)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Penguin",
+        "ilvl": 14,
+        "weight": 14,
+        "name": "+(11—15)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Narwhal",
+        "ilvl": 26,
+        "weight": 26,
+        "name": "+(16—20)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Yeti",
+        "ilvl": 38,
+        "weight": 38,
+        "name": "+(21—25)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Walrus",
+        "ilvl": 50,
+        "weight": 50,
+        "name": "+(26—30)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Polar Bear",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "+(31—35)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Ice",
+        "ilvl": 71,
+        "weight": 71,
+        "name": "+(36—40)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Haast",
+        "ilvl": 82,
+        "weight": 82,
+        "name": "+(41—45)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Cloud",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(6—10)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Squall",
+        "ilvl": 13,
+        "weight": 13,
+        "name": "+(11—15)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Storm",
+        "ilvl": 25,
+        "weight": 25,
+        "name": "+(16—20)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Thunderhead",
+        "ilvl": 37,
+        "weight": 37,
+        "name": "+(21—25)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Tempest",
+        "ilvl": 49,
+        "weight": 49,
+        "name": "+(26—30)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Maelstrom",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "+(31—35)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Lightning",
+        "ilvl": 71,
+        "weight": 71,
+        "name": "+(36—40)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ephij",
+        "ilvl": 82,
+        "weight": 82,
+        "name": "+(41—45)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Crystal",
+        "ilvl": 12,
+        "weight": 12,
+        "name": "+(3—5)% to all Elemental Resistances Elemental,Fire,Cold,Lightning,Resistance 800",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Prism",
+        "ilvl": 26,
+        "weight": 26,
+        "name": "+(6—8)% to all Elemental Resistances Elemental,Fire,Cold,Lightning,Resistance 800",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Kaleidoscope",
+        "ilvl": 40,
+        "weight": 40,
+        "name": "+(9—11)% to all Elemental Resistances Elemental,Fire,Cold,Lightning,Resistance 800",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Variegation",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "+(12—14)% to all Elemental Resistances Elemental,Fire,Cold,Lightning,Resistance 800",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Rainbow",
+        "ilvl": 68,
+        "weight": 68,
+        "name": "+(15—16)% to all Elemental Resistances Elemental,Fire,Cold,Lightning,Resistance 800",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Lost",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "+(4—7)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Banishment",
+        "ilvl": 30,
+        "weight": 30,
+        "name": "+(8—11)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Eviction",
+        "ilvl": 44,
+        "weight": 44,
+        "name": "+(12—15)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Expulsion",
+        "ilvl": 56,
+        "weight": 56,
+        "name": "+(16—19)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Exile",
+        "ilvl": 68,
+        "weight": 68,
+        "name": "+(20—23)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Bameth",
+        "ilvl": 81,
+        "weight": 81,
+        "name": "+(24—27)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "Hale",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(10—19) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Healthy",
+        "ilvl": 6,
+        "weight": 6,
+        "name": "+(20—29) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Sanguine",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "+(30—39) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Stalwart",
+        "ilvl": 24,
+        "weight": 24,
+        "name": "+(40—59) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Stout",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(60—69) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Robust",
+        "ilvl": 38,
+        "weight": 38,
+        "name": "+(70—84) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Rotund",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "+(85—99) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Virile",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "+(100—119) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 12,
+        "mod_name": "Beryl",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(10—14) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 11,
+        "mod_name": "Cobalt",
+        "ilvl": 6,
+        "weight": 6,
+        "name": "+(15—24) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 10,
+        "mod_name": "Azure",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "+(25—34) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "Teal",
+        "ilvl": 25,
+        "weight": 25,
+        "name": "+(35—54) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "Cerulean",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(55—64) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Aqua",
+        "ilvl": 38,
+        "weight": 38,
+        "name": "+(65—79) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Opalescent",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "+(80—89) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Gentian",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "+(90—104) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Chalybeous",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "+(105—124) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Mazarine",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(125—149) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Blue",
+        "ilvl": 70,
+        "weight": 70,
+        "name": "+(150—164) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Zaffre",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "+(165—179) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "Agile",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(8—15) to Evasion Rating Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "Dancer's",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "+(16—33) to Evasion Rating Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Acrobat's",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "+(34—44) to Evasion Rating Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Fleet",
+        "ilvl": 25,
+        "weight": 25,
+        "name": "+(45—69) to Evasion Rating Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Blurred",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(70—93) to Evasion Rating Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Phased",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "+(94—123) to Evasion Rating Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Vaporous",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "+(124—151) to Evasion Rating Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Elusory",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(152—176) to Evasion Rating Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Adroit",
+        "ilvl": 70,
+        "weight": 70,
+        "name": "+(177—203) to Evasion Rating Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "Glinting",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "Adds (1—2) to 3 Physical Damage to Attacks Damage,Physical,Attack 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "Burnished",
+        "ilvl": 8,
+        "weight": 8,
+        "name": "Adds (2—3) to (4—6) Physical Damage to Attacks Damage,Physical,Attack 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Polished",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "Adds (2—4) to (5—8) Physical Damage to Attacks Damage,Physical,Attack 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Honed",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "Adds (4—6) to (8—11) Physical Damage to Attacks Damage,Physical,Attack 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Gleaming",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "Adds (5—7) to (9—13) Physical Damage to Attacks Damage,Physical,Attack 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Annealed",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "Adds (6—10) to (12—17) Physical Damage to Attacks Damage,Physical,Attack 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Razor-sharp",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "Adds (7—11) to (14—20) Physical Damage to Attacks Damage,Physical,Attack 800",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Tempered",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Adds (10—15) to (18—26) Physical Damage to Attacks Damage,Physical,Attack 600",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Flaring",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "Adds (12—19) to (22—32) Physical Damage to Attacks Damage,Physical,Attack 400",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "Heated",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "Adds (1—2) to 3 Fire damage to Attacks Damage,Elemental,Fire,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "Smouldering",
+        "ilvl": 8,
+        "weight": 8,
+        "name": "Adds (3—5) to (6—9) Fire damage to Attacks Damage,Elemental,Fire,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Smoking",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "Adds (6—8) to (10—13) Fire damage to Attacks Damage,Elemental,Fire,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Burning",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "Adds (9—11) to (14—17) Fire damage to Attacks Damage,Elemental,Fire,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Flaming",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "Adds (12—13) to (18—20) Fire damage to Attacks Damage,Elemental,Fire,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Scorching",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "Adds (11—16) to (21—26) Fire damage to Attacks Damage,Elemental,Fire,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Incinerating",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "Adds (13—19) to (27—32) Fire damage to Attacks Damage,Elemental,Fire,Attack 400",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Blasting",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Adds (20—24) to (33—36) Fire damage to Attacks Damage,Elemental,Fire,Attack 300",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Cremating",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "Adds (25—29) to (37—45) Fire damage to Attacks Damage,Elemental,Fire,Attack 200",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "Frosted",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "Adds 1 to (2—3) Cold damage to Attacks Damage,Elemental,Cold,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "Chilled",
+        "ilvl": 8,
+        "weight": 8,
+        "name": "Adds (3—4) to (5—8) Cold damage to Attacks Damage,Elemental,Cold,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Icy",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "Adds (5—6) to (9—11) Cold damage to Attacks Damage,Elemental,Cold,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Frigid",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "Adds (7—8) to (12—14) Cold damage to Attacks Damage,Elemental,Cold,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Freezing",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "Adds (9—10) to (15—17) Cold damage to Attacks Damage,Elemental,Cold,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Frozen",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "Adds (11—13) to (18—21) Cold damage to Attacks Damage,Elemental,Cold,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Glaciated",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "Adds (14—15) to (22—24) Cold damage to Attacks Damage,Elemental,Cold,Attack 400",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Polar",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Adds (16—20) to (25—31) Cold damage to Attacks Damage,Elemental,Cold,Attack 300",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Entombing",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "Adds (21—24) to (32—37) Cold damage to Attacks Damage,Elemental,Cold,Attack 200",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "Humming",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "Adds 1 to (4—6) Lightning damage to Attacks Damage,Elemental,Lightning,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "Buzzing",
+        "ilvl": 8,
+        "weight": 8,
+        "name": "Adds 1 to (10—15) Lightning damage to Attacks Damage,Elemental,Lightning,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Snapping",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "Adds 1 to (16—22) Lightning damage to Attacks Damage,Elemental,Lightning,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Crackling",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "Adds 1 to (23—27) Lightning damage to Attacks Damage,Elemental,Lightning,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Sparking",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "Adds 1 to (28—32) Lightning damage to Attacks Damage,Elemental,Lightning,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Arcing",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "Adds (1—2) to (33—40) Lightning damage to Attacks Damage,Elemental,Lightning,Attack 500",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Shocking",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "Adds (1—2) to (41—47) Lightning damage to Attacks Damage,Elemental,Lightning,Attack 400",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Discharging",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Adds (1—3) to (48—59) Lightning damage to Attacks Damage,Elemental,Lightning,Attack 300",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Electrocuting",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "Adds (1—4) to (60—71) Lightning damage to Attacks Damage,Elemental,Lightning,Attack 200",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Newt",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "(1—2) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Lizard",
+        "ilvl": 5,
+        "weight": 5,
+        "name": "(2.1—3) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Flatworm",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "(3.1—4) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Starfish",
+        "ilvl": 17,
+        "weight": 17,
+        "name": "(4.1—6) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Hydra",
+        "ilvl": 26,
+        "weight": 26,
+        "name": "(6.1—9) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Troll",
+        "ilvl": 35,
+        "weight": 35,
+        "name": "(9.1—13) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Convalescence",
+        "ilvl": 47,
+        "weight": 47,
+        "name": "(13.1—18) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of Excitement",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "(10—19)% increased Mana Regeneration Rate Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Joy",
+        "ilvl": 18,
+        "weight": 18,
+        "name": "(20—29)% increased Mana Regeneration Rate Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Elation",
+        "ilvl": 29,
+        "weight": 29,
+        "name": "(30—39)% increased Mana Regeneration Rate Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Bliss",
+        "ilvl": 42,
+        "weight": 42,
+        "name": "(40—49)% increased Mana Regeneration Rate Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Euphoria",
+        "ilvl": 55,
+        "weight": 55,
+        "name": "(50—59)% increased Mana Regeneration Rate Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Nirvana",
+        "ilvl": 79,
+        "weight": 79,
+        "name": "(60—69)% increased Mana Regeneration Rate Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Parasite",
+        "ilvl": 21,
+        "weight": 21,
+        "name": "Leech (5—5.9)% of Physical Attack Damage as Life Life,Physical,Attack 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Locust",
+        "ilvl": 38,
+        "weight": 38,
+        "name": "Leech (6—6.9)% of Physical Attack Damage as Life Life,Physical,Attack 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Remora",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "Leech (7—7.9)% of Physical Attack Damage as Life Life,Physical,Attack 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Thirsty",
+        "ilvl": 21,
+        "weight": 21,
+        "name": "Leech (4—4.9)% of Physical Attack Damage as Mana Mana,Physical,Attack 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Parched",
+        "ilvl": 38,
+        "weight": 38,
+        "name": "Leech (5—5.9)% of Physical Attack Damage as Mana Mana,Physical,Attack 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Arid",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "Leech (6—6.9)% of Physical Attack Damage as Mana Mana,Physical,Attack 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of Success",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "Gain (4—6) Life per enemy killed Life 750",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Victory",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "Gain (7—9) Life per enemy killed Life 750",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Triumph",
+        "ilvl": 22,
+        "weight": 22,
+        "name": "Gain (10—18) Life per enemy killed Life 750",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Conquest",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "Gain (19—28) Life per enemy killed Life 750",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Vanquishing",
+        "ilvl": 44,
+        "weight": 44,
+        "name": "Gain (29—40) Life per enemy killed Life 750",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Valour",
+        "ilvl": 55,
+        "weight": 55,
+        "name": "Gain (41—53) Life per enemy killed Life 750",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of Absorption",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "Gain (2—3) Mana per enemy killed Mana 750",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Osmosis",
+        "ilvl": 12,
+        "weight": 12,
+        "name": "Gain (4—5) Mana per enemy killed Mana 750",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Infusion",
+        "ilvl": 23,
+        "weight": 23,
+        "name": "Gain (6—9) Mana per enemy killed Mana 750",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Enveloping",
+        "ilvl": 34,
+        "weight": 34,
+        "name": "Gain (10—14) Mana per enemy killed Mana 750",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Consumption",
+        "ilvl": 45,
+        "weight": 45,
+        "name": "Gain (15—20) Mana per enemy killed Mana 750",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Siphoning",
+        "ilvl": 56,
+        "weight": 56,
+        "name": "Gain (21—27) Mana per enemy killed Mana 750",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Talent",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "(9—12)% increased Cast Speed Caster,Speed 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Nimbleness",
+        "ilvl": 15,
+        "weight": 15,
+        "name": "(13—16)% increased Cast Speed Caster,Speed 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Expertise",
+        "ilvl": 30,
+        "weight": 30,
+        "name": "(17—20)% increased Cast Speed Caster,Speed 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Sortilege",
+        "ilvl": 45,
+        "weight": 45,
+        "name": "(21—24)% increased Cast Speed Caster,Speed 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "Precise",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(11—32) to Accuracy Rating Attack 800",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Reliable",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "+(33—60) to Accuracy Rating Attack 800",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Focused",
+        "ilvl": 18,
+        "weight": 18,
+        "name": "+(61—84) to Accuracy Rating Attack 800",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Deliberate",
+        "ilvl": 26,
+        "weight": 26,
+        "name": "+(85—123) to Accuracy Rating Attack 800",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Consistent",
+        "ilvl": 36,
+        "weight": 36,
+        "name": "+(124—167) to Accuracy Rating Attack 800",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Steady",
+        "ilvl": 48,
+        "weight": 48,
+        "name": "+(168—236) to Accuracy Rating Attack 800",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Hunter's",
+        "ilvl": 58,
+        "weight": 58,
+        "name": "+(237—346) to Accuracy Rating Attack 800",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Ranger's",
+        "ilvl": 67,
+        "weight": 67,
+        "name": "+(347—450) to Accuracy Rating Attack 400",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Plunder",
+        "ilvl": 3,
+        "weight": 3,
+        "name": "(6—10)% increased Rarity of Items found 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Raiding",
+        "ilvl": 24,
+        "weight": 24,
+        "name": "(11—14)% increased Rarity of Items found 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Archaeology",
+        "ilvl": 40,
+        "weight": 40,
+        "name": "(15—18)% increased Rarity of Items found 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Magpie's",
+        "ilvl": 10,
+        "weight": 10,
+        "name": "(8—11)% increased Rarity of Items found 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Collector's",
+        "ilvl": 29,
+        "weight": 29,
+        "name": "(12—15)% increased Rarity of Items found 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Hoarder's",
+        "ilvl": 47,
+        "weight": 47,
+        "name": "(16—19)% increased Rarity of Items found 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Warmth",
+        "ilvl": 8,
+        "weight": 8,
+        "name": "(8—12)% increased Mana Regeneration Rate5% increased Light Radius Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Kindling",
+        "ilvl": 15,
+        "weight": 15,
+        "name": "(13—17)% increased Mana Regeneration Rate10% increased Light Radius Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Hearth",
+        "ilvl": 30,
+        "weight": 30,
+        "name": "(18—22)% increased Mana Regeneration Rate15% increased Light Radius Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Searing",
+        "ilvl": 8,
+        "weight": 8,
+        "name": "(3—7)% increased Fire Damage Damage,Elemental,Fire 500",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Sizzling",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "(8—12)% increased Fire Damage Damage,Elemental,Fire 500",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Blistering",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "(13—17)% increased Fire Damage Damage,Elemental,Fire 500",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Cauterising",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "(18—22)% increased Fire Damage Damage,Elemental,Fire 500",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Volcanic",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(23—26)% increased Fire Damage Damage,Elemental,Fire 500",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Magmatic",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "(27—30)% increased Fire Damage Damage,Elemental,Fire 500",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Bitter",
+        "ilvl": 8,
+        "weight": 8,
+        "name": "(3—7)% increased Cold Damage Damage,Elemental,Cold 500",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Biting",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "(8—12)% increased Cold Damage Damage,Elemental,Cold 500",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Alpine",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "(13—17)% increased Cold Damage Damage,Elemental,Cold 500",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Snowy",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "(18—22)% increased Cold Damage Damage,Elemental,Cold 500",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Hailing",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(23—26)% increased Cold Damage Damage,Elemental,Cold 500",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Crystalline",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "(27—30)% increased Cold Damage Damage,Elemental,Cold 500",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Charged",
+        "ilvl": 8,
+        "weight": 8,
+        "name": "(3—7)% increased Lightning Damage Damage,Elemental,Lightning 500",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Hissing",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "(8—12)% increased Lightning Damage Damage,Elemental,Lightning 500",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Bolting",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "(13—17)% increased Lightning Damage Damage,Elemental,Lightning 500",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Coursing",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "(18—22)% increased Lightning Damage Damage,Elemental,Lightning 500",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Striking",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(23—26)% increased Lightning Damage Damage,Elemental,Lightning 500",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Smiting",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "(27—30)% increased Lightning Damage Damage,Elemental,Lightning 500",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Impure",
+        "ilvl": 8,
+        "weight": 8,
+        "name": "(3—7)% increased Chaos Damage Damage,Chaos 500",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Tainted",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "(8—12)% increased Chaos Damage Damage,Chaos 500",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Clouded",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "(13—17)% increased Chaos Damage Damage,Chaos 500",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Darkened",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "(18—22)% increased Chaos Damage Damage,Chaos 500",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Malignant",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(23—26)% increased Chaos Damage Damage,Chaos 500",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Vile",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "(27—30)% increased Chaos Damage Damage,Chaos 500",
+        "tags": []
+      }
+    ],
+    "desecrated_prefix": [],
+    "desecrated_suffix": [
+      {
+        "tier": 1,
+        "mod_name": "Amanamu's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Remnants have (8—15)% increased effect amanamu",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Amanamu's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(20—30)% increased Magnitude of Ignite if you've consumed an Endurance Charge Recently amanamu,Ailment",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Kurgal's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(20—30)% increased Freeze Buildup if you've consumed an Power Charge Recently kurgal,Ailment",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Ulaman's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(20—30)% increased Magnitude of Shock if you've consumed a Frenzy Charge Recently ulaman,Ailment",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Amanamu's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Minions deal (15—25)% increased Damage if you've Hit Recently amanamu,Damage,Minion",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Kurgal's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(15—25)% increased Spell Damage while on Full Energy Shield kurgal,Damage,Caster",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Amanamu",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(9—15) to Strength and Intelligence amanamu,Attribute",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ulaman",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(9—15) to Strength and Dexterity ulaman,Attribute",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Amanamu",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(8—12)% increased Skill Effect Duration amanamu",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Amanamu",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Remnants can be collected from (20—30)% further away amanamu",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Amanamu",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(12—20)% increased amount of Life Leeched amanamu",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Amanamu",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(13—17)% to Fire and Chaos Resistances amanamu,Elemental,Fire,Chaos,Resistance",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(9—15) to Dexterity and Intelligence kurgal,Attribute",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(13—17)% to Cold and Chaos Resistances kurgal,Elemental,Cold,Chaos,Resistance",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(8—12)% increased Cooldown Recovery Rate kurgal",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(10—15)% increased Exposure Effect kurgal",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Recover (2—3)% of maximum Mana on Kill kurgal,Mana",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(12—20)% increased amount of Mana Leeched kurgal,Mana",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ulaman",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(13—17)% to Lightning and Chaos Resistances ulaman,Elemental,Lightning,Chaos,Resistance",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ulaman",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Recover (2—3)% of maximum Life on Kill ulaman,Life",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ulaman",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(3—6)% increased Skill Speed ulaman,Speed",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Ulaman's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(15—25)% increased Attack Damage while on Low Life ulaman",
+        "tags": [
+          "NaN"
+        ]
+      }
+    ]
+  },
+  "Belts": {
+    "item_type": "Belts",
+    "prefix": [],
+    "suffix": [
+      {
+        "tier": 9,
+        "mod_name": "of the Brute",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(5—8) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Wrestler",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "+(9—12) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Bear",
+        "ilvl": 22,
+        "weight": 22,
+        "name": "+(13—16) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Lion",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(17—20) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Gorilla",
+        "ilvl": 44,
+        "weight": 44,
+        "name": "+(21—24) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Goliath",
+        "ilvl": 55,
+        "weight": 55,
+        "name": "+(25—27) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Leviathan",
+        "ilvl": 66,
+        "weight": 66,
+        "name": "+(28—30) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Titan",
+        "ilvl": 74,
+        "weight": 74,
+        "name": "+(31—33) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of the Gods",
+        "ilvl": 81,
+        "weight": 81,
+        "name": "+(34—36) to Strength Attribute 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Whelpling",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(6—10)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Salamander",
+        "ilvl": 12,
+        "weight": 12,
+        "name": "+(11—15)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Drake",
+        "ilvl": 24,
+        "weight": 24,
+        "name": "+(16—20)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Kiln",
+        "ilvl": 36,
+        "weight": 36,
+        "name": "+(21—25)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Furnace",
+        "ilvl": 48,
+        "weight": 48,
+        "name": "+(26—30)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Volcano",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "+(31—35)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Magma",
+        "ilvl": 71,
+        "weight": 71,
+        "name": "+(36—40)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Tzteosh",
+        "ilvl": 82,
+        "weight": 82,
+        "name": "+(41—45)% to Fire Resistance Elemental,Fire,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Seal",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(6—10)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Penguin",
+        "ilvl": 14,
+        "weight": 14,
+        "name": "+(11—15)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Narwhal",
+        "ilvl": 26,
+        "weight": 26,
+        "name": "+(16—20)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Yeti",
+        "ilvl": 38,
+        "weight": 38,
+        "name": "+(21—25)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Walrus",
+        "ilvl": 50,
+        "weight": 50,
+        "name": "+(26—30)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Polar Bear",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "+(31—35)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Ice",
+        "ilvl": 71,
+        "weight": 71,
+        "name": "+(36—40)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Haast",
+        "ilvl": 82,
+        "weight": 82,
+        "name": "+(41—45)% to Cold Resistance Elemental,Cold,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Cloud",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(6—10)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Squall",
+        "ilvl": 13,
+        "weight": 13,
+        "name": "+(11—15)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Storm",
+        "ilvl": 25,
+        "weight": 25,
+        "name": "+(16—20)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Thunderhead",
+        "ilvl": 37,
+        "weight": 37,
+        "name": "+(21—25)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Tempest",
+        "ilvl": 49,
+        "weight": 49,
+        "name": "+(26—30)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of the Maelstrom",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "+(31—35)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Lightning",
+        "ilvl": 71,
+        "weight": 71,
+        "name": "+(36—40)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ephij",
+        "ilvl": 82,
+        "weight": 82,
+        "name": "+(41—45)% to Lightning Resistance Elemental,Lightning,Resistance 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Lost",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "+(4—7)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Banishment",
+        "ilvl": 30,
+        "weight": 30,
+        "name": "+(8—11)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Eviction",
+        "ilvl": 44,
+        "weight": 44,
+        "name": "+(12—15)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Expulsion",
+        "ilvl": 56,
+        "weight": 56,
+        "name": "+(16—19)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Exile",
+        "ilvl": 68,
+        "weight": 68,
+        "name": "+(20—23)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Bameth",
+        "ilvl": 81,
+        "weight": 81,
+        "name": "+(24—27)% to Chaos Resistance Chaos,Resistance 250",
+        "tags": []
+      },
+      {
+        "tier": 10,
+        "mod_name": "Hale",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(10—19) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "Healthy",
+        "ilvl": 6,
+        "weight": 6,
+        "name": "+(20—29) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "Sanguine",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "+(30—39) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Stalwart",
+        "ilvl": 24,
+        "weight": 24,
+        "name": "+(40—59) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Stout",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(60—69) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Robust",
+        "ilvl": 38,
+        "weight": 38,
+        "name": "+(70—84) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Rotund",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "+(85—99) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Virile",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "+(100—119) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Athlete's",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "+(120—149) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Fecund",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(150—174) to maximum Life Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "Beryl",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(10—14) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "Cobalt",
+        "ilvl": 6,
+        "weight": 6,
+        "name": "+(15—24) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Azure",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "+(25—34) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Teal",
+        "ilvl": 25,
+        "weight": 25,
+        "name": "+(35—54) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Cerulean",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(55—64) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Aqua",
+        "ilvl": 38,
+        "weight": 38,
+        "name": "+(65—79) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Opalescent",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "+(80—89) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Gentian",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "+(90—104) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Chalybeous",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "+(105—124) to maximum Mana Mana 1000",
+        "tags": []
+      },
+      {
+        "tier": 10,
+        "mod_name": "Lacquered",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(12—22) to Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "Studded",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "+(23—42) to Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "Ribbed",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "+(43—54) to Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Fortified",
+        "ilvl": 25,
+        "weight": 25,
+        "name": "+(55—81) to Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Plated",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "+(82—106) to Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Carapaced",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "+(107—138) to Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Encased",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "+(139—168) to Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Enveloped",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(169—195) to Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Abating",
+        "ilvl": 70,
+        "weight": 70,
+        "name": "+(196—224) to Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Unmoving",
+        "ilvl": 80,
+        "weight": 80,
+        "name": "+(225—255) to Armour Defences 1000",
+        "tags": []
+      },
+      {
+        "tier": 10,
+        "mod_name": "of Thick Skin",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "+(6—11) to Stun Threshold 800",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "of Reinforced Skin",
+        "ilvl": 8,
+        "weight": 8,
+        "name": "+(12—29) to Stun Threshold 800",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of Stone Skin",
+        "ilvl": 15,
+        "weight": 15,
+        "name": "+(30—49) to Stun Threshold 800",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of Iron Skin",
+        "ilvl": 22,
+        "weight": 22,
+        "name": "+(50—72) to Stun Threshold 800",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of Steel Skin",
+        "ilvl": 29,
+        "weight": 29,
+        "name": "+(73—97) to Stun Threshold 800",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Granite Skin",
+        "ilvl": 36,
+        "weight": 36,
+        "name": "+(98—124) to Stun Threshold 800",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Platinum Skin",
+        "ilvl": 45,
+        "weight": 45,
+        "name": "+(125—163) to Stun Threshold 800",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Adamantite Skin",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "+(164—206) to Stun Threshold 800",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Corundum Skin",
+        "ilvl": 63,
+        "weight": 63,
+        "name": "+(207—253) to Stun Threshold 800",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Obsidian Skin",
+        "ilvl": 72,
+        "weight": 72,
+        "name": "+(254—304) to Stun Threshold 800",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Thorny",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "(1—2) to (3—4) Physical Thorns damage Damage,Physical 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Spiny",
+        "ilvl": 10,
+        "weight": 10,
+        "name": "(5—7) to (7—10) Physical Thorns damage Damage,Physical 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Barbed",
+        "ilvl": 19,
+        "weight": 19,
+        "name": "(11—16) to (15—23) Physical Thorns damage Damage,Physical 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Pointed",
+        "ilvl": 38,
+        "weight": 38,
+        "name": "(24—35) to (35—53) Physical Thorns damage Damage,Physical 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Spiked",
+        "ilvl": 48,
+        "weight": 48,
+        "name": "(40—60) to (61—92) Physical Thorns damage Damage,Physical 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Edged",
+        "ilvl": 63,
+        "weight": 63,
+        "name": "(64—97) to (97—145) Physical Thorns damage Damage,Physical 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Jagged",
+        "ilvl": 74,
+        "weight": 74,
+        "name": "(101—151) to (146—220) Physical Thorns damage Damage,Physical 1000",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "of the Newt",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "(1—2) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "of the Lizard",
+        "ilvl": 5,
+        "weight": 5,
+        "name": "(2.1—3) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "of the Flatworm",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "(3.1—4) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of the Starfish",
+        "ilvl": 17,
+        "weight": 17,
+        "name": "(4.1—6) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of the Hydra",
+        "ilvl": 26,
+        "weight": 26,
+        "name": "(6.1—9) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of the Troll",
+        "ilvl": 35,
+        "weight": 35,
+        "name": "(9.1—13) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Convalescence",
+        "ilvl": 47,
+        "weight": 47,
+        "name": "(13.1—18) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Recuperation",
+        "ilvl": 58,
+        "weight": 58,
+        "name": "(18.1—23) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Resurgence",
+        "ilvl": 68,
+        "weight": 68,
+        "name": "(23.1—29) Life Regeneration per second Life 1000",
+        "tags": []
+      },
+      {
+        "tier": 12,
+        "mod_name": "Restoring",
+        "ilvl": 1,
+        "weight": 1,
+        "name": "(5—10)% increased Flask Life Recovery rate Life 800",
+        "tags": []
+      },
+      {
+        "tier": 9,
+        "mod_name": "Recovering",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "(11—16)% increased Flask Life Recovery rate Life 800",
+        "tags": []
+      },
+      {
+        "tier": 7,
+        "mod_name": "Renewing",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "(17—22)% increased Flask Life Recovery rate Life 800",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Refreshing",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "(23—28)% increased Flask Life Recovery rate Life 800",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Rejuvenating",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "(29—34)% increased Flask Life Recovery rate Life 800",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Regenerating",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "(35—40)% increased Flask Life Recovery rate Life 800",
+        "tags": []
+      },
+      {
+        "tier": 11,
+        "mod_name": "Affecting",
+        "ilvl": 5,
+        "weight": 5,
+        "name": "(5—10)% increased Flask Mana Recovery rate Mana 800",
+        "tags": []
+      },
+      {
+        "tier": 10,
+        "mod_name": "Stirring",
+        "ilvl": 11,
+        "weight": 11,
+        "name": "(11—16)% increased Flask Mana Recovery rate Mana 800",
+        "tags": []
+      },
+      {
+        "tier": 8,
+        "mod_name": "Heartening",
+        "ilvl": 26,
+        "weight": 26,
+        "name": "(17—22)% increased Flask Mana Recovery rate Mana 800",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "Exciting",
+        "ilvl": 36,
+        "weight": 36,
+        "name": "(23—28)% increased Flask Mana Recovery rate Mana 800",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Galvanizing",
+        "ilvl": 54,
+        "weight": 54,
+        "name": "(29—34)% increased Flask Mana Recovery rate Mana 800",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Inspiring",
+        "ilvl": 63,
+        "weight": 63,
+        "name": "(35—40)% increased Flask Mana Recovery rate Mana 800",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "Conservative",
+        "ilvl": 8,
+        "weight": 8,
+        "name": "(4—9)% increased Charm Effect Duration 800",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "Transformative",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "(10—15)% increased Charm Effect Duration 800",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "Progressive",
+        "ilvl": 46,
+        "weight": 46,
+        "name": "(16—21)% increased Charm Effect Duration 800",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "Innovative",
+        "ilvl": 60,
+        "weight": 60,
+        "name": "(22—27)% increased Charm Effect Duration 800",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "Revolutionary",
+        "ilvl": 75,
+        "weight": 75,
+        "name": "(28—33)% increased Charm Effect Duration 800",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of Refilling",
+        "ilvl": 2,
+        "weight": 2,
+        "name": "(5—10)% increased Flask Charges gained 800",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Restocking",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "(11—16)% increased Flask Charges gained 800",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Replenishing",
+        "ilvl": 32,
+        "weight": 32,
+        "name": "(17—22)% increased Flask Charges gained 800",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Pouring",
+        "ilvl": 48,
+        "weight": 48,
+        "name": "(23—28)% increased Flask Charges gained 800",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Brimming",
+        "ilvl": 70,
+        "weight": 70,
+        "name": "(29—34)% increased Flask Charges gained 800",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Overflowing",
+        "ilvl": 81,
+        "weight": 81,
+        "name": "(35—40)% increased Flask Charges gained 800",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of Sipping",
+        "ilvl": 3,
+        "weight": 3,
+        "name": "(8—10)% reduced Flask Charges used 800",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Imbibing",
+        "ilvl": 18,
+        "weight": 18,
+        "name": "(11—13)% reduced Flask Charges used 800",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Relishing",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "(14—16)% reduced Flask Charges used 800",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Savouring",
+        "ilvl": 50,
+        "weight": 50,
+        "name": "(17—19)% reduced Flask Charges used 800",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Reveling",
+        "ilvl": 72,
+        "weight": 72,
+        "name": "(20—22)% reduced Flask Charges used 800",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Nourishing",
+        "ilvl": 81,
+        "weight": 81,
+        "name": "(23—25)% reduced Flask Charges used 800",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of Plenty",
+        "ilvl": 2,
+        "weight": 2,
+        "name": "(5—10)% increased Charm Charges gained 800",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Surplus",
+        "ilvl": 16,
+        "weight": 16,
+        "name": "(11—16)% increased Charm Charges gained 800",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Fertility",
+        "ilvl": 32,
+        "weight": 32,
+        "name": "(17—22)% increased Charm Charges gained 800",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Bounty",
+        "ilvl": 48,
+        "weight": 48,
+        "name": "(23—28)% increased Charm Charges gained 800",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of the Harvest",
+        "ilvl": 70,
+        "weight": 70,
+        "name": "(29—34)% increased Charm Charges gained 800",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Abundance",
+        "ilvl": 81,
+        "weight": 81,
+        "name": "(35—40)% increased Charm Charges gained 800",
+        "tags": []
+      },
+      {
+        "tier": 6,
+        "mod_name": "of Austerity",
+        "ilvl": 3,
+        "weight": 3,
+        "name": "(8—10)% reduced Charm Charges used 800",
+        "tags": []
+      },
+      {
+        "tier": 5,
+        "mod_name": "of Frugality",
+        "ilvl": 18,
+        "weight": 18,
+        "name": "(11—13)% reduced Charm Charges used 800",
+        "tags": []
+      },
+      {
+        "tier": 4,
+        "mod_name": "of Temperance",
+        "ilvl": 33,
+        "weight": 33,
+        "name": "(14—16)% reduced Charm Charges used 800",
+        "tags": []
+      },
+      {
+        "tier": 3,
+        "mod_name": "of Restraint",
+        "ilvl": 50,
+        "weight": 50,
+        "name": "(17—19)% reduced Charm Charges used 800",
+        "tags": []
+      },
+      {
+        "tier": 2,
+        "mod_name": "of Economy",
+        "ilvl": 72,
+        "weight": 72,
+        "name": "(20—22)% reduced Charm Charges used 800",
+        "tags": []
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Scarcity",
+        "ilvl": 81,
+        "weight": 81,
+        "name": "(23—25)% reduced Charm Charges used 800",
+        "tags": []
+      }
+    ],
+    "desecrated_prefix": [],
+    "desecrated_suffix": [
+      {
+        "tier": 1,
+        "mod_name": "Amanamu's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(10—18)% chance for Charms you use to not consume Charges amanamu",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Amanamu's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Charms gain (0.1—0.2) charges per Second amanamu",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Kurgal's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Mana Flasks gain (0.1—0.2) charges per Second kurgal",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Ulaman's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Life Flasks gain (0.1—0.2) charges per Second ulaman",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Amanamu's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "2 to 4 Fire Thorns damage per 100 maximum Life amanamu,Elemental,Fire",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Kurgal's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "Gain (6—12)% of Maximum Mana as Armour kurgal,Mana,Defences",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Kurgal's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(10—15)% chance for Flasks you use to not consume Charges kurgal",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Ulaman's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(10—18)% chance for Flasks you use to not consume Charges ulaman",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Amanamu",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(9—15) to Strength and Intelligence amanamu,Attribute",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ulaman",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(9—15) to Strength and Dexterity ulaman,Attribute",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Amanamu",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(20—30)% reduced Ignite Duration on you amanamu,Elemental,Fire,Ailment",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Amanamu",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(2—4)% to Thorns Critical Hit Chance amanamu",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Amanamu",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(13—17)% to Fire and Chaos Resistances amanamu,Elemental,Fire,Chaos,Resistance",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(9—15) to Dexterity and Intelligence kurgal,Attribute",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(13—17)% to Cold and Chaos Resistances kurgal,Elemental,Cold,Chaos,Resistance",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(30—40)% increased Mana Regeneration Rate kurgal,Mana",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Kurgal",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(20—30)% reduced Duration of Bleeding on You kurgal,Physical,Ailment",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ulaman",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(20—30)% reduced Poison Duration on you ulaman,Chaos,Ailment",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ulaman",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "+(13—17)% to Lightning and Chaos Resistances ulaman,Elemental,Lightning,Chaos,Resistance",
+        "tags": [
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "of Ulaman",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(17—25)% reduced Slowing Potency of Debuffs on You if you've used a",
+        "tags": [
+          "Charm",
+          "Recently",
+          "Charm,ulaman",
+          "NaN"
+        ]
+      },
+      {
+        "tier": 1,
+        "mod_name": "Ulaman's",
+        "ilvl": 65,
+        "weight": 65,
+        "name": "(20—30)% increased Life Regeneration rate during Effect of any Life Flask ulaman",
+        "tags": [
+          "NaN"
+        ]
+      }
+    ]
+  }
+}

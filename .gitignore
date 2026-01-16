@@ -1,0 +1,69 @@
+
+# Python
+
+venv/
+
+__pycache__/
+
+*.pyc
+
+*.pyo
+
+*.pyd
+
+.Python
+
+
+
+# Database
+
+*.db
+
+*.sqlite
+
+*.sqlite3
+
+
+
+# Environment
+
+.env
+
+.env.local
+
+
+
+# IDE
+
+.vscode/
+
+.idea/
+
+*.swp
+
+*.swo
+
+
+
+# Logs
+
+logs/
+
+*.log
+
+
+
+# Data
+
+data/*.json
+
+data/*.csv
+
+
+
+# OS
+
+.DS_Store
+
+Thumbs.db
+

@@ -1,0 +1,3418 @@
+{
+  "expensive_items": [
+    {
+      "name": "Hypnotic Wrap",
+      "base_type": "Sacrificial Regalia",
+      "type_line": "Sacrificial Regalia",
+      "ilvl": 83,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "110% increased [Armour|Armour], [Evasion|Evasion] and [EnergyShield|Energy Shield]",
+          "+210 to maximum Life",
+          "+27 to [Dexterity|Dexterity]",
+          "+24% to [Resistances|Chaos Resistance]",
+          "+44% of [Armour|Armour] also applies to [ElementalDamage|Elemental Damage]"
+        ],
+        "implicit": [
+          "+1 to Level of all [Corrupted] Skill Gems"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Conjurer Mantle",
+      "type_line": "Vigorous Conjurer Mantle of Excitement",
+      "ilvl": 80,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+178 to maximum Life",
+          "46% [FasterESRechargeStart|faster start of Energy Shield Recharge]"
+        ],
+        "implicit": [
+          "+24 to [Spirit|Spirit]"
+        ]
+      }
+    },
+    {
+      "name": "Dusk Shroud",
+      "base_type": "Rambler Jacket",
+      "type_line": "Rambler Jacket",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+114 to [Evasion] Rating",
+          "+44 to maximum [EnergyShield|Energy Shield]",
+          "140% increased [Evasion] and [EnergyShield|Energy Shield]",
+          "+28 to [Dexterity|Dexterity]",
+          "+26% to [Resistances|Cold Resistance]",
+          "+18% to [Resistances|Chaos Resistance]"
+        ],
+        "implicit": [
+          "+12% to [Resistances|Chaos Resistance]"
+        ]
+      }
+    },
+    {
+      "name": "Demon Keep",
+      "base_type": "Feathered Raiment",
+      "type_line": "Feathered Raiment",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+85 to maximum [EnergyShield|Energy Shield]",
+          "42% increased [EnergyShield|Energy Shield]",
+          "+53 to [Spirit|Spirit]",
+          "+33% to [Resistances|Cold Resistance]",
+          "+36% to [Resistances|Lightning Resistance]"
+        ],
+        "implicit": [
+          "8% of Damage is taken from Mana before Life"
+        ]
+      }
+    },
+    {
+      "name": "Horror Veil",
+      "base_type": "Thane Mail",
+      "type_line": "Thane Mail",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+123 to [Armour|Armour]",
+          "+115 to [Evasion] Rating",
+          "145% increased [Armour|Armour] and [Evasion|Evasion]",
+          "+37 to maximum Life",
+          "30% reduced [Attributes|Attribute] Requirements",
+          "+40% to [Resistances|Fire Resistance]",
+          "+47% of [Armour|Armour] also applies to [ElementalDamage|Elemental Damage]"
+        ],
+        "implicit": [
+          "Hits against you have 23% reduced [CriticalDamageBonus|Critical Damage Bonus]"
+        ]
+      }
+    },
+    {
+      "name": "Rift Sanctuary",
+      "base_type": "Rogue Armour",
+      "type_line": "Rogue Armour",
+      "ilvl": 25,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+14 to [Armour|Armour]",
+          "+12 to [Evasion] Rating",
+          "32% increased [Armour|Armour] and [Evasion|Evasion]",
+          "+72 to maximum Life",
+          "+16 to [Dexterity|Dexterity]",
+          "+7% to [Resistances|Lightning Resistance]",
+          "+25 to [StunThreshold|Stun Threshold]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Miracle Curtain",
+      "base_type": "Sacrificial Regalia",
+      "type_line": "Sacrificial Regalia",
+      "ilvl": 83,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "53% increased [Armour|Armour], [Evasion|Evasion] and [EnergyShield|Energy Shield]",
+          "+196 to maximum Life",
+          "+23% to [Resistances|Chaos Resistance]",
+          "30.2 Life Regeneration per second"
+        ],
+        "implicit": [
+          "+1 to Level of all [Corrupted] Skill Gems"
+        ]
+      }
+    },
+    {
+      "name": "Onslaught Curtain",
+      "base_type": "Slipstrike Vest",
+      "type_line": "Slipstrike Vest",
+      "ilvl": 83,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [],
+        "implicit": []
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Falconer's Jacket",
+      "type_line": "Rapturous Falconer's Jacket",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+190 to maximum Life"
+        ],
+        "implicit": [
+          "5% increased Movement Speed"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Rogue Armour",
+      "type_line": "Rogue Armour",
+      "ilvl": 22,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Soul Cowl",
+      "base_type": "Imperial Greathelm",
+      "type_line": "Imperial Greathelm",
+      "ilvl": 80,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+166 to [Armour|Armour]",
+          "130% increased [Armour|Armour]",
+          "+43 to maximum Life",
+          "+34% to [Resistances|Fire Resistance]",
+          "+34% to [Resistances|Cold Resistance]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Brood Salvation",
+      "base_type": "Elegant Greathelm",
+      "type_line": "Elegant Greathelm",
+      "ilvl": 79,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+189 to [Armour|Armour]",
+          "39% increased [Armour|Armour]",
+          "+117 to maximum Life",
+          "+38 to maximum Mana",
+          "+24% to [Resistances|Cold Resistance]",
+          "+25% to [Resistances|Lightning Resistance]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Kraken Ward",
+      "base_type": "Sandsworn Tiara",
+      "type_line": "Sandsworn Tiara",
+      "ilvl": 58,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "90% increased [EnergyShield|Energy Shield]",
+          "+32 to maximum Life",
+          "19% increased [ItemRarity|Rarity of Items] found",
+          "15% reduced [Attributes|Attribute] Requirements",
+          "+24 to [Intelligence|Intelligence]",
+          "+11% to [Resistances|Fire Resistance]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Wrapped Cap",
+      "type_line": "Exceptional Wrapped Cap",
+      "ilvl": 78,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Dread Corona",
+      "base_type": "Divine Crown",
+      "type_line": "Divine Crown",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "82% increased [Armour|Armour] and [EnergyShield|Energy Shield]",
+          "+44% to [Resistances|Cold Resistance]",
+          "+33% to [Resistances|Lightning Resistance]",
+          "+38% of [Armour|Armour] also applies to [ElementalDamage|Elemental Damage]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Brimstone Crown",
+      "base_type": "Imperial Greathelm",
+      "type_line": "Imperial Greathelm",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+195 to [Armour|Armour]",
+          "40% increased [Armour|Armour]",
+          "+43 to maximum Life",
+          "31% increased [Critical|Critical Hit] Chance",
+          "+25 to [Strength|Strength]",
+          "+32% to [Resistances|Fire Resistance]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Golem Dome",
+      "base_type": "Paragon Greathelm",
+      "type_line": "Paragon Greathelm",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+190 to [Armour|Armour]",
+          "77% increased [Armour|Armour]",
+          "+38% to [Resistances|Fire Resistance]",
+          "+30% to [Resistances|Cold Resistance]",
+          "+32% to [Resistances|Lightning Resistance]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Glyph Keep",
+      "base_type": "Trapper Hood",
+      "type_line": "Trapper Hood",
+      "ilvl": 79,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+14 to [Evasion] Rating",
+          "+117 to maximum Mana",
+          "+14 to [Intelligence|Intelligence]",
+          "+31% to [Resistances|Lightning Resistance]",
+          "Gain [Deflect|Deflection Rating] equal to 17% of [Evasion|Evasion Rating]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Paragon Greathelm",
+      "type_line": "Superior Paragon Greathelm",
+      "ilvl": 79,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Blight Horn",
+      "base_type": "Noble Greathelm",
+      "type_line": "Noble Greathelm",
+      "ilvl": 80,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "72% increased [Armour|Armour]",
+          "+153 to maximum Life",
+          "+87 to maximum Mana",
+          "+35% to [Resistances|Lightning Resistance]",
+          "+38% of [Armour|Armour] also applies to [ElementalDamage|Elemental Damage]",
+          "1.2 Life Regeneration per second"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Horror Hand",
+      "base_type": "Sirenscale Gloves",
+      "type_line": "Sirenscale Gloves",
+      "ilvl": 80,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "Adds 10 to 16 [Physical|Physical] Damage to [Attack|Attacks]",
+          "+33 to maximum Life",
+          "+102 to maximum Mana",
+          "+2 to Level of all [Melee|Melee] Skills",
+          "+38% to [Resistances|Cold Resistance]",
+          "[LifeLeech|Leech] 8.71% of [Physical] [Attack] Damage as Life"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Chimeric Mitts",
+      "base_type": "Feathered Mitts",
+      "type_line": "Feathered Mitts",
+      "ilvl": 74,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "10% increased [Armour|Armour]",
+          "+153 to maximum Life",
+          "+57 to maximum Mana",
+          "+39% to [Resistances|Fire Resistance]",
+          "+19% to [Resistances|Cold Resistance]",
+          "+27% of [Armour|Armour] also applies to [ElementalDamage|Elemental Damage]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Torment Hold",
+      "base_type": "Ancient Mitts",
+      "type_line": "Ancient Mitts",
+      "ilvl": 56,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "100% increased [Armour|Armour]",
+          "+32 to maximum Life",
+          "+23% to [Resistances|Fire Resistance]",
+          "[LifeLeech|Leech] 5.53% of [Physical] [Attack] Damage as Life",
+          "[ManaLeech|Leech] 5.35% of [Physical] [Attack] Damage as Mana"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Hypnotic Vise",
+      "base_type": "War Wraps",
+      "type_line": "War Wraps",
+      "ilvl": 80,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "131% increased [Evasion] and [EnergyShield|Energy Shield]",
+          "Adds 16 to 23 [Fire] damage to [Attack|Attacks]",
+          "+34 to maximum Life",
+          "16% increased [ItemRarity|Rarity of Items] found",
+          "[LifeLeech|Leech] 8.7% of [Physical] [Attack] Damage as Life"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Beast Fist",
+      "base_type": "Cultist Gauntlets",
+      "type_line": "Cultist Gauntlets",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "Adds 7 to 20 [Physical|Physical] Damage to [Attack|Attacks]",
+          "+66 to maximum Life",
+          "+122 to maximum Mana",
+          "22% increased [CriticalDamageBonus|Critical Damage Bonus]",
+          "+43% to [Resistances|Cold Resistance]",
+          "+19% to [Resistances|Lightning Resistance]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Golem Talons",
+      "base_type": "Sirenscale Gloves",
+      "type_line": "Sirenscale Gloves",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Cataclysm Fingers",
+      "base_type": "Sirenscale Gloves",
+      "type_line": "Sirenscale Gloves",
+      "ilvl": 83,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "40% increased [EnergyShield|Energy Shield]",
+          "Adds 17 to 24 [Physical|Physical] Damage to [Attack|Attacks]",
+          "+318 to [Accuracy|Accuracy] Rating",
+          "+46 to maximum Life",
+          "18% increased [ItemRarity|Rarity of Items] found",
+          "+34% to [Resistances|Lightning Resistance]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Storm Grip",
+      "base_type": "Blacksteel Gauntlets",
+      "type_line": "Blacksteel Gauntlets",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "Adds 11 to 23 [Fire] damage to [Attack|Attacks]",
+          "+87 to maximum Mana",
+          "32% increased [CriticalDamageBonus|Critical Damage Bonus]",
+          "+16% to [Resistances|Chaos Resistance]",
+          "[LifeLeech|Leech] 8.47% of [Physical] [Attack] Damage as Life"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Blood Paw",
+      "base_type": "Secured Wraps",
+      "type_line": "Secured Wraps",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "74% increased [Evasion] and [EnergyShield|Energy Shield]",
+          "Adds 12 to 24 [Fire] damage to [Attack|Attacks]",
+          "+368 to [Accuracy|Accuracy] Rating",
+          "15% increased [Attack] Speed",
+          "+42% to [Resistances|Fire Resistance]",
+          "42% increased [ESRechargeRate|Energy Shield Recharge Rate]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Agony Grasp",
+      "base_type": "Ornate Mitts",
+      "type_line": "Ornate Mitts",
+      "ilvl": 79,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "Adds 6 to 11 [Physical|Physical] Damage to [Attack|Attacks]",
+          "Adds 12 to 19 [Cold] damage to [Attack|Attacks]",
+          "15% increased [ItemRarity|Rarity of Items] found",
+          "14% increased [Attack] Speed",
+          "+35% of [Armour|Armour] also applies to [ElementalDamage|Elemental Damage]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Blight Track",
+      "base_type": "Noble Sabatons",
+      "type_line": "Noble Sabatons",
+      "ilvl": 80,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "30% increased Movement Speed",
+          "+56 to [Armour|Armour]",
+          "+54 to [Evasion] Rating",
+          "68% increased [Armour|Armour] and [Evasion|Evasion]",
+          "22 Life Regeneration per second"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Spirit Trail",
+      "base_type": "Steelpoint Shoes",
+      "type_line": "Steelpoint Shoes",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "30% increased Movement Speed",
+          "39% increased [Evasion] and [EnergyShield|Energy Shield]",
+          "+108 to maximum Mana",
+          "35% reduced [Attributes|Attribute] Requirements",
+          "+28% to [Resistances|Cold Resistance]",
+          "+118 to [StunThreshold|Stun Threshold]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Bulwark Greaves",
+      "type_line": "Bulwark Greaves of the Titan",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+31 to [Strength|Strength]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Brimstone Spark",
+      "base_type": "Cinched Boots",
+      "type_line": "Cinched Boots",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "30% increased Movement Speed",
+          "94% increased [Evasion|Evasion] Rating",
+          "+40% to [Resistances|Cold Resistance]",
+          "+28% to [Resistances|Lightning Resistance]",
+          "+28 to [StunThreshold|Stun Threshold]",
+          "47% reduced [Shock|Shock] duration on you"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Agony Dash",
+      "base_type": "Tasalian Greaves",
+      "type_line": "Tasalian Greaves",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "30% increased Movement Speed",
+          "+61 to maximum Life",
+          "+107 to maximum Mana",
+          "+37% to [Resistances|Fire Resistance]",
+          "+39% to [Resistances|Cold Resistance]",
+          "+40% to [Resistances|Lightning Resistance]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Viper Pace",
+      "base_type": "Drakeskin Boots",
+      "type_line": "Drakeskin Boots",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "35% increased Movement Speed",
+          "88% increased [Evasion|Evasion] Rating",
+          "+106 to maximum Life",
+          "+35% to [Resistances|Fire Resistance]",
+          "+35% to [Resistances|Cold Resistance]",
+          "+23% to [Resistances|Chaos Resistance]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Rage Hoof",
+      "base_type": "Sekhema Sandals",
+      "type_line": "Sekhema Sandals",
+      "ilvl": 83,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "35% increased Movement Speed",
+          "+103 to maximum Life",
+          "+97 to maximum Mana",
+          "18% increased [ItemRarity|Rarity of Items] found",
+          "+38% to [Resistances|Fire Resistance]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Torment Track",
+      "base_type": "Reefsteel Greaves",
+      "type_line": "Reefsteel Greaves",
+      "ilvl": 51,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "20% increased Movement Speed",
+          "24% increased [Armour|Armour]",
+          "+90 to maximum Life",
+          "13% increased [ItemRarity|Rarity of Items] found",
+          "+16% to [Resistances|Cold Resistance]",
+          "+30% of [Armour|Armour] also applies to [ElementalDamage|Elemental Damage]",
+          "+39 to [StunThreshold|Stun Threshold]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Bramble Spur",
+      "base_type": "Feathered Sandals",
+      "type_line": "Feathered Sandals",
+      "ilvl": 49,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "15% increased Movement Speed",
+          "+34 to maximum [EnergyShield|Energy Shield]",
+          "29% increased [EnergyShield|Energy Shield]",
+          "+29% to [Resistances|Fire Resistance]",
+          "+22% to [Resistances|Cold Resistance]",
+          "+18 to [StunThreshold|Stun Threshold]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Agony Track",
+      "base_type": "Sekhema Sandals",
+      "type_line": "Sekhema Sandals",
+      "ilvl": 80,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+53 to maximum [EnergyShield|Energy Shield]",
+          "72% increased [EnergyShield|Energy Shield]",
+          "+28 to [Intelligence|Intelligence]",
+          "+40% to [Resistances|Fire Resistance]",
+          "+27% to [Resistances|Cold Resistance]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Brimstone Gorget",
+      "base_type": "Azure Amulet",
+      "type_line": "Azure Amulet",
+      "ilvl": 78,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "6% increased maximum Life",
+          "+44 to [Spirit|Spirit]",
+          "+2 to Level of all [Projectile] Skills",
+          "+37% to [Resistances|Cold Resistance]",
+          "+22% to [Resistances|Chaos Resistance]"
+        ],
+        "implicit": [
+          "30% increased Mana Regeneration Rate"
+        ]
+      }
+    },
+    {
+      "name": "Golem Gorget",
+      "base_type": "Amber Amulet",
+      "type_line": "Amber Amulet",
+      "ilvl": 79,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "47% increased [Armour]",
+          "7% increased maximum Life",
+          "+26 to [Strength|Strength]",
+          "+36% to [Resistances|Fire Resistance]",
+          "+33% to [Resistances|Cold Resistance]"
+        ],
+        "implicit": [
+          "+12 to [Strength|Strength]"
+        ]
+      }
+    },
+    {
+      "name": "Ghoul Scarab",
+      "base_type": "Jade Amulet",
+      "type_line": "Jade Amulet",
+      "ilvl": 80,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "35% increased [Armour]",
+          "46% increased maximum [EnergyShield|Energy Shield]",
+          "19% increased [ItemRarity|Rarity of Items] found",
+          "39% increased [CriticalDamageBonus|Critical Damage Bonus]",
+          "+16% to all [ElementalDamage|Elemental] [Resistances]",
+          "50% increased Mana Regeneration Rate"
+        ],
+        "implicit": [
+          "+14 to [Dexterity|Dexterity]"
+        ]
+      }
+    },
+    {
+      "name": "Morbid Beads",
+      "base_type": "Solar Amulet",
+      "type_line": "Solar Amulet",
+      "ilvl": 83,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "37% increased maximum [EnergyShield|Energy Shield]",
+          "+152 to maximum Mana",
+          "+49 to [Spirit|Spirit]",
+          "+16% to all [ElementalDamage|Elemental] [Resistances]",
+          "27.8 Life Regeneration per second",
+          "65% increased Mana Regeneration Rate"
+        ],
+        "implicit": [
+          "+13 to [Spirit|Spirit]"
+        ]
+      }
+    },
+    {
+      "name": "Ghoul Torc",
+      "base_type": "Gold Amulet",
+      "type_line": "Gold Amulet",
+      "ilvl": 79,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+68 to maximum [EnergyShield|Energy Shield]",
+          "33% increased maximum [EnergyShield|Energy Shield]",
+          "+145 to maximum Mana",
+          "18% increased [ItemRarity|Rarity of Items] found",
+          "+26 to [Dexterity|Dexterity]",
+          "+36% to [Resistances|Cold Resistance]"
+        ],
+        "implicit": [
+          "12% increased [ItemRarity|Rarity of Items] found"
+        ]
+      }
+    },
+    {
+      "name": "Behemoth Heart",
+      "base_type": "Solar Amulet",
+      "type_line": "Solar Amulet",
+      "ilvl": 79,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+44 to [Accuracy|Accuracy] Rating",
+          "+45 to maximum [EnergyShield|Energy Shield]",
+          "+81 to maximum Life",
+          "+25 to [Dexterity|Dexterity]",
+          "+16% to all [ElementalDamage|Elemental] [Resistances]",
+          "1.7 Life Regeneration per second"
+        ],
+        "implicit": [
+          "+14 to [Spirit|Spirit]"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Amber Amulet",
+      "type_line": "Robust Amber Amulet of Expertise",
+      "ilvl": 79,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+77 to maximum Life",
+          "20% increased Cast Speed"
+        ],
+        "implicit": [
+          "+13 to [Strength|Strength]"
+        ]
+      }
+    },
+    {
+      "name": "Brimstone Torc",
+      "base_type": "Gold Amulet",
+      "type_line": "Gold Amulet",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "26% increased [Spell] Damage",
+          "38% increased maximum [EnergyShield|Energy Shield]",
+          "16% increased [ItemRarity|Rarity of Items] found",
+          "+39% to [Resistances|Fire Resistance]",
+          "+21% to [Resistances|Lightning Resistance]"
+        ],
+        "implicit": [
+          "19% increased [ItemRarity|Rarity of Items] found"
+        ]
+      }
+    },
+    {
+      "name": "Gloom Beads",
+      "base_type": "Gold Amulet",
+      "type_line": "Gold Amulet",
+      "ilvl": 79,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+442 to [Accuracy|Accuracy] Rating",
+          "+17 to maximum [EnergyShield|Energy Shield]",
+          "+134 to maximum Mana",
+          "+32% to [Resistances|Lightning Resistance]",
+          "9.1 Life Regeneration per second",
+          "20% of Damage taken [Recoup|Recouped] as Life"
+        ],
+        "implicit": [
+          "14% increased [ItemRarity|Rarity of Items] found"
+        ]
+      }
+    },
+    {
+      "name": "Dusk Collar",
+      "base_type": "Jade Amulet",
+      "type_line": "Jade Amulet",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+40 to maximum [EnergyShield|Energy Shield]",
+          "23% increased maximum [EnergyShield|Energy Shield]",
+          "+132 to maximum Life",
+          "27% increased [CriticalDamageBonus|Critical Damage Bonus]",
+          "+19 to all [Attributes|Attributes]",
+          "+37% to [Resistances|Lightning Resistance]"
+        ],
+        "implicit": [
+          "+13 to [Dexterity|Dexterity]"
+        ]
+      }
+    },
+    {
+      "name": "Glyph Loop",
+      "base_type": "Gold Ring",
+      "type_line": "Gold Ring",
+      "ilvl": 84,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "Adds 1 to 32 [Lightning] damage to [Attack|Attacks]",
+          "21% increased Cast Speed",
+          "+16% to [Resistances|Lightning Resistance]",
+          "58% increased Mana Regeneration Rate"
+        ],
+        "implicit": [
+          "15% increased [ItemRarity|Rarity of Items] found"
+        ]
+      }
+    },
+    {
+      "name": "Oblivion Whorl",
+      "base_type": "Breach Ring",
+      "type_line": "Breach Ring",
+      "ilvl": 78,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "Adds 36 to 61 [Fire] damage to [Attack|Attacks]",
+          "36% increased [Fire] Damage",
+          "+97 to maximum Mana",
+          "+30% to [Resistances|Cold Resistance]",
+          "[LifeLeech|Leech] 7.42% of [Physical] [Attack] Damage as Life",
+          "41% increased Mana Regeneration Rate"
+        ],
+        "implicit": [
+          "Maximum [Quality] is 40%"
+        ]
+      }
+    },
+    {
+      "name": "Corpse Eye",
+      "base_type": "Gold Ring",
+      "type_line": "Gold Ring",
+      "ilvl": 80,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "Adds 4 to 69 [Lightning] damage to [Attack|Attacks]",
+          "+186 to [Evasion] Rating",
+          "+149 to maximum Mana",
+          "+28 to [Dexterity|Dexterity]",
+          "+34% to [Resistances|Fire Resistance]",
+          "+21% to [Resistances|Lightning Resistance]"
+        ],
+        "implicit": [
+          "14% increased [ItemRarity|Rarity of Items] found"
+        ]
+      }
+    },
+    {
+      "name": "Chimeric Band",
+      "base_type": "Ruby Ring",
+      "type_line": "Ruby Ring",
+      "ilvl": 79,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "26% increased [Lightning] Damage",
+          "+402 to [Accuracy|Accuracy] Rating",
+          "15% increased [ItemRarity|Rarity of Items] found",
+          "+29 to [Dexterity|Dexterity]",
+          "64% increased Mana Regeneration Rate"
+        ],
+        "implicit": [
+          "+29% to [Resistances|Fire Resistance]"
+        ]
+      }
+    },
+    {
+      "name": "Golem Nail",
+      "base_type": "Prismatic Ring",
+      "type_line": "Prismatic Ring",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "Adds 4 to 9 [Physical|Physical] Damage to [Attack|Attacks]",
+          "Adds 10 to 16 [Fire] damage to [Attack|Attacks]",
+          "+18 to [Dexterity|Dexterity]",
+          "+19 to [Intelligence|Intelligence]",
+          "+16% to [Resistances|Lightning Resistance]"
+        ],
+        "implicit": [
+          "+9% to all [ElementalDamage|Elemental] [Resistances]"
+        ]
+      }
+    },
+    {
+      "name": "Loath Turn",
+      "base_type": "Breach Ring",
+      "type_line": "Breach Ring",
+      "ilvl": 78,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "25% increased [Chaos] Damage",
+          "+194 to [Evasion] Rating",
+          "+102 to maximum Life",
+          "24% increased Cast Speed",
+          "+30 to [Intelligence|Intelligence]",
+          "13.2 Life Regeneration per second"
+        ],
+        "implicit": [
+          "Maximum [Quality] is 40%"
+        ]
+      }
+    },
+    {
+      "name": "Fate Hold",
+      "base_type": "Iron Ring",
+      "type_line": "Iron Ring",
+      "ilvl": 83,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "26% increased [Chaos] Damage",
+          "18% increased [ItemRarity|Rarity of Items] found",
+          "+40% to [Resistances|Cold Resistance]",
+          "[ManaLeech|Leech] 6.42% of [Physical] [Attack] Damage as Mana"
+        ],
+        "implicit": [
+          "Adds 1 to 4 [Physical|Physical] Damage to [Attack|Attacks]"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Prismatic Ring",
+      "type_line": "Gleaming Prismatic Ring of Absorption",
+      "ilvl": 78,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "Adds 7 to 13 [Physical|Physical] Damage to [Attack|Attacks]",
+          "Gain 3 Mana per enemy killed"
+        ],
+        "implicit": [
+          "+7% to all [ElementalDamage|Elemental] [Resistances]"
+        ]
+      }
+    },
+    {
+      "name": "Rapture Grip",
+      "base_type": "Amethyst Ring",
+      "type_line": "Amethyst Ring",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "Adds 19 to 22 [Physical|Physical] Damage to [Attack|Attacks]",
+          "+118 to maximum Life",
+          "+40% to [Resistances|Lightning Resistance]",
+          "65% increased Mana Regeneration Rate",
+          "[ManaLeech|Leech] 6.5% of [Physical] [Attack] Damage as Mana"
+        ],
+        "implicit": [
+          "+10% to [Resistances|Chaos Resistance]"
+        ]
+      }
+    },
+    {
+      "name": "Behemoth Grasp",
+      "base_type": "Topaz Ring",
+      "type_line": "Topaz Ring",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+41 to [Accuracy|Accuracy] Rating",
+          "+48 to [Evasion] Rating",
+          "+11 to [Dexterity|Dexterity]",
+          "12.7 Life Regeneration per second"
+        ],
+        "implicit": [
+          "+27% to [Resistances|Lightning Resistance]"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Long Belt",
+      "type_line": "Heartening Long Belt of Surplus",
+      "ilvl": 40,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "22% increased [Flask] Mana Recovery rate",
+          "12% increased [Charm] Charges gained"
+        ],
+        "implicit": [
+          "19% increased [Charm] Effect Duration",
+          "Has 1 [Charm] Slot"
+        ]
+      }
+    },
+    {
+      "name": "Damnation Snare",
+      "base_type": "Utility Belt",
+      "type_line": "Utility Belt",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+253 to [Armour]",
+          "+149 to maximum Life",
+          "36% increased [Flask] Mana Recovery rate",
+          "+26 to [Strength|Strength]",
+          "+45% to [Resistances|Fire Resistance]",
+          "+30% to [Resistances|Cold Resistance]"
+        ],
+        "implicit": [
+          "Has 3 [Charm] Slots",
+          "20% of [Flask|Flask] Recovery applied Instantly"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Linen Belt",
+      "type_line": "Linen Belt of Replenishing",
+      "ilvl": 40,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "21% increased [Flask|Flask] Charges gained"
+        ],
+        "implicit": [
+          "26% increased Mana Recovery from [Flask|Flasks]",
+          "Has 2 [Charm] Slots"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Heavy Belt",
+      "type_line": "Heavy Belt",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [],
+        "implicit": [
+          "24% increased [StunThreshold|Stun Threshold]",
+          "Has 3 [Charm] Slots"
+        ]
+      }
+    },
+    {
+      "name": "Gloom Trap",
+      "base_type": "Utility Belt",
+      "type_line": "Utility Belt",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+231 to [Armour]",
+          "+115 to maximum Mana",
+          "34% increased [Flask] Mana Recovery rate",
+          "+37% to [Resistances|Fire Resistance]",
+          "+29% to [Resistances|Cold Resistance]",
+          "9% reduced [Flask|Flask] Charges used"
+        ],
+        "implicit": [
+          "Has 2 [Charm] Slots",
+          "20% of [Flask|Flask] Recovery applied Instantly"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Utility Belt",
+      "type_line": "Utility Belt",
+      "ilvl": 79,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [],
+        "implicit": [
+          "Has 1 [Charm] Slot",
+          "20% of [Flask|Flask] Recovery applied Instantly"
+        ]
+      }
+    },
+    {
+      "name": "Dragon Buckle",
+      "base_type": "Plate Belt",
+      "type_line": "Plate Belt",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+72 to maximum Mana",
+          "33% increased [Flask] Life Recovery rate",
+          "+39% to [Resistances|Fire Resistance]",
+          "+45% to [Resistances|Lightning Resistance]",
+          "17% reduced [Charm] Charges used",
+          "31 to 41 [Physical|Physical] [Thorns|Thorns] damage"
+        ],
+        "implicit": [
+          "+118 to [Armour]",
+          "Has 2 [Charm] Slots"
+        ]
+      }
+    },
+    {
+      "name": "Domination Snare",
+      "base_type": "Rawhide Belt",
+      "type_line": "Rawhide Belt",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+169 to maximum Life",
+          "+58 to maximum Mana",
+          "28% increased [Flask] Life Recovery rate",
+          "+31% to [Resistances|Cold Resistance]",
+          "+27% to [Resistances|Chaos Resistance]",
+          "35% increased [Charm] Charges gained"
+        ],
+        "implicit": [
+          "23% increased Life Recovery from [Flask|Flasks]",
+          "Has 1 [Charm] Slot"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Heavy Belt",
+      "type_line": "Heavy Belt",
+      "ilvl": 60,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [],
+        "implicit": [
+          "30% increased [StunThreshold|Stun Threshold]",
+          "Has 3 [Charm] Slots"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Linen Belt",
+      "type_line": "Ribbed Linen Belt",
+      "ilvl": 40,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "+50 to [Armour]"
+        ],
+        "implicit": [
+          "22% increased Mana Recovery from [Flask|Flasks]",
+          "Has 2 [Charm] Slots"
+        ]
+      }
+    },
+    {
+      "name": "Rapture Mark",
+      "base_type": "Guardian Bow",
+      "type_line": "Guardian Bow",
+      "ilvl": 79,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "158% increased [Physical] Damage",
+          "Adds 22 to 33 [Physical|Physical] Damage",
+          "Adds 4 to 73 [Lightning|Lightning] Damage",
+          "+57 to [Accuracy|Accuracy] Rating",
+          "+3 to Level of all [Attack] Skills",
+          "[ManaLeech|Leeches] 6.77% of [Physical|Physical] Damage as Mana",
+          "15% increased [LightRadius|Light Radius]"
+        ],
+        "implicit": [
+          "30% chance to [Chain] an additional time"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Obliterator Bow",
+      "type_line": "Obliterator Bow",
+      "ilvl": 79,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [],
+        "implicit": [
+          "50% reduced Projectile Range"
+        ]
+      }
+    },
+    {
+      "name": "Rune Blast",
+      "base_type": "Warmonger Bow",
+      "type_line": "Warmonger Bow",
+      "ilvl": 80,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "147% increased [Physical] Damage",
+          "Adds 21 to 29 [Physical|Physical] Damage",
+          "+3 to Level of all [Attack] Skills",
+          "[Gain] 15% of Damage as Extra [Physical] Damage",
+          "25% chance to gain [Onslaught|Onslaught] on Killing [HitDamage|Hits] with this Weapon"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Obliterator Bow",
+      "type_line": "Flaring Obliterator Bow of Destruction",
+      "ilvl": 80,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "Adds 36 to 48 [Physical|Physical] Damage",
+          "+24% to [CriticalDamageBonus|Critical Damage Bonus]"
+        ],
+        "implicit": [
+          "50% reduced Projectile Range"
+        ]
+      }
+    },
+    {
+      "name": "Dread Reach",
+      "base_type": "Gemini Bow",
+      "type_line": "Gemini Bow",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "Adds 14 to 20 [Physical|Physical] Damage",
+          "72% increased [ElementalDamage|Elemental] Damage with [Attack|Attacks]",
+          "+4.27% to [Critical|Critical Hit] Chance",
+          "+145% [SurpassChance|Surpassing] chance to fire an additional Arrow"
+        ],
+        "implicit": [
+          "+50% [SurpassChance|Surpassing] chance to fire an additional Arrow"
+        ]
+      }
+    },
+    {
+      "name": "Pandemonium Volley",
+      "base_type": "Obliterator Bow",
+      "type_line": "Obliterator Bow",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "144% increased [Physical] Damage",
+          "Adds 20 to 41 [Physical|Physical] Damage",
+          "Adds 1 to 5 [Fire|Fire] Damage",
+          "+53 to [Accuracy|Accuracy] Rating",
+          "5% increased [Attack] Speed",
+          "Gain 42 Life per enemy killed",
+          "15% increased [LightRadius|Light Radius]"
+        ],
+        "implicit": [
+          "50% reduced Projectile Range"
+        ]
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Obliterator Bow",
+      "type_line": "Exceptional Obliterator Bow",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [],
+        "implicit": [
+          "50% reduced Projectile Range"
+        ]
+      }
+    },
+    {
+      "name": "Miracle Wing",
+      "base_type": "Militant Bow",
+      "type_line": "Militant Bow",
+      "ilvl": 80,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "148% increased [Physical] Damage",
+          "Adds 8 to 189 [Lightning|Lightning] Damage",
+          "80% increased [ElementalDamage|Elemental] Damage with [Attack|Attacks]",
+          "+17% to [CriticalDamageBonus|Critical Damage Bonus]",
+          "19% increased [Attack] Speed"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Dragon Arch",
+      "base_type": "Gemini Bow",
+      "type_line": "Gemini Bow",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "Adds 22 to 35 [Fire|Fire] Damage",
+          "Adds 15 to 23 [Cold|Cold] Damage",
+          "Adds 2 to 45 [Lightning|Lightning] Damage",
+          "+22 to [Dexterity|Dexterity]",
+          "Grants 5 Life per Enemy [HitDamage|Hit]",
+          "+187% [SurpassChance|Surpassing] chance to fire an additional Arrow"
+        ],
+        "implicit": [
+          "+50% [SurpassChance|Surpassing] chance to fire an additional Arrow"
+        ]
+      }
+    },
+    {
+      "name": "Sorrow Rain",
+      "base_type": "Obliterator Bow",
+      "type_line": "Obliterator Bow",
+      "ilvl": 84,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "192% increased [Physical] Damage",
+          "Adds 18 to 29 [Physical|Physical] Damage",
+          "+99 to [Accuracy|Accuracy] Rating",
+          "+22% to [CriticalDamageBonus|Critical Damage Bonus]",
+          "+30 to [Dexterity|Dexterity]"
+        ],
+        "implicit": [
+          "50% reduced Projectile Range"
+        ]
+      }
+    },
+    {
+      "name": "Agony Goad",
+      "base_type": "Sanctified Staff",
+      "type_line": "Sanctified Staff",
+      "ilvl": 83,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "[Gain] 45% of Damage as Extra [Fire] Damage",
+          "[Gain] 30% of Damage as Extra [Cold] Damage",
+          "[Gain] 59% of Damage as Extra [Lightning] Damage",
+          "35% reduced [Attributes|Attribute] Requirements",
+          "+2 to Level of all [Spell|Spell] Skills",
+          "77% increased [Flammability] [BuffMagnitude|Magnitude]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Brood Chant",
+      "base_type": "Chiming Staff",
+      "type_line": "Chiming Staff",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "[Gain] 50% of Damage as Extra [Lightning] Damage",
+          "84% increased [Spell] Damage",
+          "155% increased [Fire] Damage",
+          "+75 to maximum Mana",
+          "+6 to Level of all [Fire|Fire] [Spell|Spell] Skills",
+          "50% increased [CriticalDamageBonus|Critical Spell Damage Bonus]",
+          "Gain 21 Mana per enemy killed"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Glyph Mast",
+      "base_type": "Paralysing Staff",
+      "type_line": "Paralysing Staff",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "[Gain] 54% of Damage as Extra [Lightning] Damage",
+          "133% increased [Lightning] Damage",
+          "+195 to maximum Mana",
+          "35% reduced [Attributes|Attribute] Requirements",
+          "+21 to [Intelligence|Intelligence]",
+          "76% increased chance to [Shock]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Damnation Spell",
+      "base_type": "Voltaic Staff",
+      "type_line": "Voltaic Staff",
+      "ilvl": 80,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "[Gain] 59% of Damage as Extra [Fire] Damage",
+          "[Gain] 49% of Damage as Extra [Cold] Damage",
+          "183% increased [Lightning] Damage",
+          "+6 to Level of all [Spell|Spell] Skills",
+          "79% increased [Critical|Critical Hit Chance] for [Spell|Spells]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Brood Bane",
+      "base_type": "Reaping Staff",
+      "type_line": "Reaping Staff",
+      "ilvl": 80,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "130% increased [Spell] Damage",
+          "+168 to maximum Mana",
+          "35% reduced [Attributes|Attribute] Requirements",
+          "47% increased Cast Speed",
+          "Gain 36 Mana per enemy killed"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Corpse Goad",
+      "base_type": "Reaping Staff",
+      "type_line": "Reaping Staff",
+      "ilvl": 79,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "[Gain] 34% of Damage as Extra [Fire] Damage",
+          "190% increased [Spell] [Physical] Damage",
+          "+234 to maximum Mana",
+          "34% increased [CriticalDamageBonus|Critical Spell Damage Bonus]",
+          "+31 to [Intelligence|Intelligence]",
+          "93% increased Mana Regeneration Rate"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Corpse Song",
+      "base_type": "Reaping Staff",
+      "type_line": "Reaping Staff",
+      "ilvl": 80,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "[Gain] 60% of Damage as Extra [Lightning] Damage",
+          "182% increased [Spell] Damage",
+          "+5 to Level of all [Spell|Spell] Skills",
+          "52% increased Cast Speed",
+          "Gain 37 Mana per enemy killed"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Phoenix Spell",
+      "base_type": "Pyrophyte Staff",
+      "type_line": "Pyrophyte Staff",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "[Gain] 43% of Damage as Extra [Fire] Damage",
+          "[Gain] 44% of Damage as Extra [Cold] Damage",
+          "[Gain] 38% of Damage as Extra [Lightning] Damage",
+          "38% increased [CriticalDamageBonus|Critical Spell Damage Bonus]",
+          "35% increased Cast Speed",
+          "Gain 11 Mana per enemy killed"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Torment Spire",
+      "base_type": "Voltaic Staff",
+      "type_line": "Voltaic Staff",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "[Gain] 47% of Damage as Extra [Lightning] Damage",
+          "227% increased [Spell] Damage",
+          "+5 to Level of all [Spell|Spell] Skills",
+          "73% increased chance to [Shock]"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Horror Goad",
+      "base_type": "Ashen Staff",
+      "type_line": "Ashen Staff",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "[Gain] 46% of Damage as Extra [Fire] Damage",
+          "234% increased [Spell] Damage",
+          "131% increased [Fire] Damage",
+          "+7 to Level of all [Fire|Fire] [Spell|Spell] Skills",
+          "35% increased Cast Speed",
+          "Gain 28 Mana per enemy killed"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Chimeric Bite",
+      "base_type": "Withered Wand",
+      "type_line": "Withered Wand",
+      "ilvl": 43,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "[Gain] 17% of Damage as Extra [Cold] Damage",
+          "30% increased [Spell] Damage",
+          "29% increased [Chaos] Damage",
+          "+29 to maximum Mana",
+          "+3 to Level of all [Chaos|Chaos] [Spell|Spell] Skills",
+          "35% increased [Critical|Critical Hit Chance] for [Spell|Spells]",
+          "14% increased Mana Regeneration Rate"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Dragon Barb",
+      "base_type": "Withered Wand",
+      "type_line": "Withered Wand",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "[Gain] 25% of Damage as Extra [Fire] Damage",
+          "[Gain] 28% of Damage as Extra [Cold] Damage",
+          "[Gain] 27% of Damage as Extra [Lightning] Damage",
+          "+3 to Level of all [Spell|Spell] Skills",
+          "56% increased Mana Regeneration Rate"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Rapture Charm",
+      "base_type": "Dueling Wand",
+      "type_line": "Dueling Wand",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "[Gain] 30% of Damage as Extra [Lightning] Damage",
+          "96% increased [Spell] Damage",
+          "75% increased [Spell] [Physical] Damage",
+          "63% increased [Critical|Critical Hit Chance] for [Spell|Spells]",
+          "25% increased Cast Speed"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Pandemonium Needle",
+      "base_type": "Withered Wand",
+      "type_line": "Withered Wand",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "[Gain] 28% of Damage as Extra [Cold] Damage",
+          "[Gain] 28% of Damage as Extra [Lightning] Damage",
+          "+98 to maximum Mana",
+          "33% increased [CriticalDamageBonus|Critical Spell Damage Bonus]",
+          "33% increased Cast Speed",
+          "Gain 23 Mana per enemy killed"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Cataclysm Song",
+      "base_type": "Dueling Wand",
+      "type_line": "Dueling Wand",
+      "ilvl": 79,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "[Gain] 22% of Damage as Extra [Lightning] Damage",
+          "30% increased [Spell] Damage",
+          "+193 to maximum Mana",
+          "18% increased [CriticalDamageBonus|Critical Spell Damage Bonus]",
+          "29% increased Cast Speed",
+          "+4 to Level of all [Physical|Physical] [Spell|Spell] Skills"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Soul Edge",
+      "base_type": "Withered Wand",
+      "type_line": "Withered Wand",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "42% increased [Spell] Damage",
+          "42% increased [Chaos] Damage",
+          "+171 to maximum Mana",
+          "30% reduced [Attributes|Attribute] Requirements",
+          "+5 to Level of all [Chaos|Chaos] [Spell|Spell] Skills"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Kraken Chant",
+      "base_type": "Dueling Wand",
+      "type_line": "Dueling Wand",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "84% increased [Spell] Damage",
+          "104% increased [Spell] [Physical] Damage",
+          "+26 to maximum Mana",
+          "Gain 51 Life per enemy killed",
+          "44% increased Mana Regeneration Rate",
+          "Gain 25 Mana per enemy killed"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Gloom Charm",
+      "base_type": "Dueling Wand",
+      "type_line": "Dueling Wand",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "57% increased [Spell] Damage",
+          "+142 to maximum Mana",
+          "+4 to Level of all [Spell|Spell] Skills",
+          "39% increased [CriticalDamageBonus|Critical Spell Damage Bonus]",
+          "Gain 39 Life per enemy killed"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "Maelström Thirst",
+      "base_type": "Dueling Wand",
+      "type_line": "Dueling Wand",
+      "ilvl": 81,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "[Gain] 30% of Damage as Extra [Cold] Damage",
+          "110% increased [Spell] Damage",
+          "28% increased Cast Speed"
+        ],
+        "implicit": []
+      }
+    },
+    {
+      "name": "",
+      "base_type": "Dueling Wand",
+      "type_line": "Arctic Dueling Wand of Talent",
+      "ilvl": 82,
+      "price_amount": 50,
+      "price_currency": "divine",
+      "mods": {
+        "explicit": [
+          "82% increased [Cold] Damage",
+          "11% increased Cast Speed"
+        ],
+        "implicit": []
+      }
+    }
+  ],
+  "valuable_bases": {
+    "Sacrificial Regalia": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "110% increased [Armour|Armour], [Evasion|Evasion] and [EnergyShield|Energy Shield]",
+        "+210 to maximum Life",
+        "+27 to [Dexterity|Dexterity]"
+      ]
+    },
+    "Conjurer Mantle": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "+178 to maximum Life",
+        "46% [FasterESRechargeStart|faster start of Energy Shield Recharge]"
+      ]
+    },
+    "Rambler Jacket": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "+114 to [Evasion] Rating",
+        "+44 to maximum [EnergyShield|Energy Shield]",
+        "140% increased [Evasion] and [EnergyShield|Energy Shield]"
+      ]
+    },
+    "Feathered Raiment": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "+85 to maximum [EnergyShield|Energy Shield]",
+        "42% increased [EnergyShield|Energy Shield]",
+        "+53 to [Spirit|Spirit]"
+      ]
+    },
+    "Thane Mail": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "+123 to [Armour|Armour]",
+        "+115 to [Evasion] Rating",
+        "145% increased [Armour|Armour] and [Evasion|Evasion]"
+      ]
+    },
+    "Rogue Armour": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "+14 to [Armour|Armour]",
+        "+12 to [Evasion] Rating",
+        "32% increased [Armour|Armour] and [Evasion|Evasion]"
+      ]
+    },
+    "Slipstrike Vest": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": []
+    },
+    "Falconer's Jacket": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "+190 to maximum Life"
+      ]
+    },
+    "Imperial Greathelm": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "+166 to [Armour|Armour]",
+        "130% increased [Armour|Armour]",
+        "+43 to maximum Life"
+      ]
+    },
+    "Elegant Greathelm": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "+189 to [Armour|Armour]",
+        "39% increased [Armour|Armour]",
+        "+117 to maximum Life"
+      ]
+    },
+    "Sandsworn Tiara": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "90% increased [EnergyShield|Energy Shield]",
+        "+32 to maximum Life",
+        "19% increased [ItemRarity|Rarity of Items] found"
+      ]
+    },
+    "Wrapped Cap": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": []
+    },
+    "Divine Crown": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "82% increased [Armour|Armour] and [EnergyShield|Energy Shield]",
+        "+44% to [Resistances|Cold Resistance]",
+        "+33% to [Resistances|Lightning Resistance]"
+      ]
+    },
+    "Paragon Greathelm": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "+190 to [Armour|Armour]",
+        "77% increased [Armour|Armour]",
+        "+38% to [Resistances|Fire Resistance]"
+      ]
+    },
+    "Trapper Hood": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "+14 to [Evasion] Rating",
+        "+117 to maximum Mana",
+        "+14 to [Intelligence|Intelligence]"
+      ]
+    },
+    "Noble Greathelm": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "72% increased [Armour|Armour]",
+        "+153 to maximum Life",
+        "+87 to maximum Mana"
+      ]
+    },
+    "Sirenscale Gloves": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "Adds 10 to 16 [Physical|Physical] Damage to [Attack|Attacks]",
+        "+33 to maximum Life",
+        "+102 to maximum Mana"
+      ]
+    },
+    "Feathered Mitts": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "10% increased [Armour|Armour]",
+        "+153 to maximum Life",
+        "+57 to maximum Mana"
+      ]
+    },
+    "Ancient Mitts": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "100% increased [Armour|Armour]",
+        "+32 to maximum Life",
+        "+23% to [Resistances|Fire Resistance]"
+      ]
+    },
+    "War Wraps": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "131% increased [Evasion] and [EnergyShield|Energy Shield]",
+        "Adds 16 to 23 [Fire] damage to [Attack|Attacks]",
+        "+34 to maximum Life"
+      ]
+    },
+    "Cultist Gauntlets": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "Adds 7 to 20 [Physical|Physical] Damage to [Attack|Attacks]",
+        "+66 to maximum Life",
+        "+122 to maximum Mana"
+      ]
+    },
+    "Blacksteel Gauntlets": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "Adds 11 to 23 [Fire] damage to [Attack|Attacks]",
+        "+87 to maximum Mana",
+        "32% increased [CriticalDamageBonus|Critical Damage Bonus]"
+      ]
+    },
+    "Secured Wraps": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "74% increased [Evasion] and [EnergyShield|Energy Shield]",
+        "Adds 12 to 24 [Fire] damage to [Attack|Attacks]",
+        "+368 to [Accuracy|Accuracy] Rating"
+      ]
+    },
+    "Ornate Mitts": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "Adds 6 to 11 [Physical|Physical] Damage to [Attack|Attacks]",
+        "Adds 12 to 19 [Cold] damage to [Attack|Attacks]",
+        "15% increased [ItemRarity|Rarity of Items] found"
+      ]
+    },
+    "Noble Sabatons": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "30% increased Movement Speed",
+        "+56 to [Armour|Armour]",
+        "+54 to [Evasion] Rating"
+      ]
+    },
+    "Steelpoint Shoes": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "30% increased Movement Speed",
+        "39% increased [Evasion] and [EnergyShield|Energy Shield]",
+        "+108 to maximum Mana"
+      ]
+    },
+    "Bulwark Greaves": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "+31 to [Strength|Strength]"
+      ]
+    },
+    "Cinched Boots": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "30% increased Movement Speed",
+        "94% increased [Evasion|Evasion] Rating",
+        "+40% to [Resistances|Cold Resistance]"
+      ]
+    },
+    "Tasalian Greaves": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "30% increased Movement Speed",
+        "+61 to maximum Life",
+        "+107 to maximum Mana"
+      ]
+    },
+    "Drakeskin Boots": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "35% increased Movement Speed",
+        "88% increased [Evasion|Evasion] Rating",
+        "+106 to maximum Life"
+      ]
+    },
+    "Sekhema Sandals": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "35% increased Movement Speed",
+        "+103 to maximum Life",
+        "+97 to maximum Mana"
+      ]
+    },
+    "Reefsteel Greaves": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "20% increased Movement Speed",
+        "24% increased [Armour|Armour]",
+        "+90 to maximum Life"
+      ]
+    },
+    "Feathered Sandals": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "15% increased Movement Speed",
+        "+34 to maximum [EnergyShield|Energy Shield]",
+        "29% increased [EnergyShield|Energy Shield]"
+      ]
+    },
+    "Azure Amulet": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "6% increased maximum Life",
+        "+44 to [Spirit|Spirit]",
+        "+2 to Level of all [Projectile] Skills"
+      ]
+    },
+    "Amber Amulet": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "47% increased [Armour]",
+        "7% increased maximum Life",
+        "+26 to [Strength|Strength]"
+      ]
+    },
+    "Jade Amulet": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "35% increased [Armour]",
+        "46% increased maximum [EnergyShield|Energy Shield]",
+        "19% increased [ItemRarity|Rarity of Items] found"
+      ]
+    },
+    "Solar Amulet": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "37% increased maximum [EnergyShield|Energy Shield]",
+        "+152 to maximum Mana",
+        "+49 to [Spirit|Spirit]"
+      ]
+    },
+    "Gold Amulet": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "+68 to maximum [EnergyShield|Energy Shield]",
+        "33% increased maximum [EnergyShield|Energy Shield]",
+        "+145 to maximum Mana"
+      ]
+    },
+    "Gold Ring": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "Adds 1 to 32 [Lightning] damage to [Attack|Attacks]",
+        "21% increased Cast Speed",
+        "+16% to [Resistances|Lightning Resistance]"
+      ]
+    },
+    "Breach Ring": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "Adds 36 to 61 [Fire] damage to [Attack|Attacks]",
+        "36% increased [Fire] Damage",
+        "+97 to maximum Mana"
+      ]
+    },
+    "Ruby Ring": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "26% increased [Lightning] Damage",
+        "+402 to [Accuracy|Accuracy] Rating",
+        "15% increased [ItemRarity|Rarity of Items] found"
+      ]
+    },
+    "Prismatic Ring": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "Adds 4 to 9 [Physical|Physical] Damage to [Attack|Attacks]",
+        "Adds 10 to 16 [Fire] damage to [Attack|Attacks]",
+        "+18 to [Dexterity|Dexterity]"
+      ]
+    },
+    "Iron Ring": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "26% increased [Chaos] Damage",
+        "18% increased [ItemRarity|Rarity of Items] found",
+        "+40% to [Resistances|Cold Resistance]"
+      ]
+    },
+    "Amethyst Ring": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "Adds 19 to 22 [Physical|Physical] Damage to [Attack|Attacks]",
+        "+118 to maximum Life",
+        "+40% to [Resistances|Lightning Resistance]"
+      ]
+    },
+    "Topaz Ring": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "+41 to [Accuracy|Accuracy] Rating",
+        "+48 to [Evasion] Rating",
+        "+11 to [Dexterity|Dexterity]"
+      ]
+    },
+    "Long Belt": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "22% increased [Flask] Mana Recovery rate",
+        "12% increased [Charm] Charges gained"
+      ]
+    },
+    "Utility Belt": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "+253 to [Armour]",
+        "+149 to maximum Life",
+        "36% increased [Flask] Mana Recovery rate"
+      ]
+    },
+    "Linen Belt": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "21% increased [Flask|Flask] Charges gained"
+      ]
+    },
+    "Heavy Belt": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": []
+    },
+    "Plate Belt": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "+72 to maximum Mana",
+        "33% increased [Flask] Life Recovery rate",
+        "+39% to [Resistances|Fire Resistance]"
+      ]
+    },
+    "Rawhide Belt": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "+169 to maximum Life",
+        "+58 to maximum Mana",
+        "28% increased [Flask] Life Recovery rate"
+      ]
+    },
+    "Guardian Bow": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "158% increased [Physical] Damage",
+        "Adds 22 to 33 [Physical|Physical] Damage",
+        "Adds 4 to 73 [Lightning|Lightning] Damage"
+      ]
+    },
+    "Obliterator Bow": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": []
+    },
+    "Warmonger Bow": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "147% increased [Physical] Damage",
+        "Adds 21 to 29 [Physical|Physical] Damage",
+        "+3 to Level of all [Attack] Skills"
+      ]
+    },
+    "Gemini Bow": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "Adds 14 to 20 [Physical|Physical] Damage",
+        "72% increased [ElementalDamage|Elemental] Damage with [Attack|Attacks]",
+        "+4.27% to [Critical|Critical Hit] Chance"
+      ]
+    },
+    "Militant Bow": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "148% increased [Physical] Damage",
+        "Adds 8 to 189 [Lightning|Lightning] Damage",
+        "80% increased [ElementalDamage|Elemental] Damage with [Attack|Attacks]"
+      ]
+    },
+    "Sanctified Staff": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "[Gain] 45% of Damage as Extra [Fire] Damage",
+        "[Gain] 30% of Damage as Extra [Cold] Damage",
+        "[Gain] 59% of Damage as Extra [Lightning] Damage"
+      ]
+    },
+    "Chiming Staff": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "[Gain] 50% of Damage as Extra [Lightning] Damage",
+        "84% increased [Spell] Damage",
+        "155% increased [Fire] Damage"
+      ]
+    },
+    "Paralysing Staff": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "[Gain] 54% of Damage as Extra [Lightning] Damage",
+        "133% increased [Lightning] Damage",
+        "+195 to maximum Mana"
+      ]
+    },
+    "Voltaic Staff": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "[Gain] 59% of Damage as Extra [Fire] Damage",
+        "[Gain] 49% of Damage as Extra [Cold] Damage",
+        "183% increased [Lightning] Damage"
+      ]
+    },
+    "Reaping Staff": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "130% increased [Spell] Damage",
+        "+168 to maximum Mana",
+        "35% reduced [Attributes|Attribute] Requirements"
+      ]
+    },
+    "Pyrophyte Staff": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "[Gain] 43% of Damage as Extra [Fire] Damage",
+        "[Gain] 44% of Damage as Extra [Cold] Damage",
+        "[Gain] 38% of Damage as Extra [Lightning] Damage"
+      ]
+    },
+    "Ashen Staff": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "[Gain] 46% of Damage as Extra [Fire] Damage",
+        "234% increased [Spell] Damage",
+        "131% increased [Fire] Damage"
+      ]
+    },
+    "Withered Wand": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "[Gain] 17% of Damage as Extra [Cold] Damage",
+        "30% increased [Spell] Damage",
+        "29% increased [Chaos] Damage"
+      ]
+    },
+    "Dueling Wand": {
+      "finished_price": 50,
+      "finished_currency": "divine",
+      "sample_mods": [
+        "[Gain] 30% of Damage as Extra [Lightning] Damage",
+        "96% increased [Spell] Damage",
+        "75% increased [Spell] [Physical] Damage"
+      ]
+    }
+  },
+  "base_prices": {
+    "Sacrificial Regalia": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 83
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "110% increased [Armour|Armour], [Evasion|Evasion] and [EnergyShield|Energy Shield]",
+        "+210 to maximum Life",
+        "+27 to [Dexterity|Dexterity]"
+      ]
+    },
+    "Conjurer Mantle": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "+178 to maximum Life",
+        "46% [FasterESRechargeStart|faster start of Energy Shield Recharge]"
+      ]
+    },
+    "Rambler Jacket": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "+114 to [Evasion] Rating",
+        "+44 to maximum [EnergyShield|Energy Shield]",
+        "140% increased [Evasion] and [EnergyShield|Energy Shield]"
+      ]
+    },
+    "Feathered Raiment": {
+      "base_price": {
+        "amount": 2,
+        "currency": "regal",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "+85 to maximum [EnergyShield|Energy Shield]",
+        "42% increased [EnergyShield|Energy Shield]",
+        "+53 to [Spirit|Spirit]"
+      ]
+    },
+    "Thane Mail": {
+      "base_price": {
+        "amount": 1,
+        "currency": "regal",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "+123 to [Armour|Armour]",
+        "+115 to [Evasion] Rating",
+        "145% increased [Armour|Armour] and [Evasion|Evasion]"
+      ]
+    },
+    "Slipstrike Vest": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": []
+    },
+    "Falconer's Jacket": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "+190 to maximum Life"
+      ]
+    },
+    "Imperial Greathelm": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "+166 to [Armour|Armour]",
+        "130% increased [Armour|Armour]",
+        "+43 to maximum Life"
+      ]
+    },
+    "Elegant Greathelm": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "+189 to [Armour|Armour]",
+        "39% increased [Armour|Armour]",
+        "+117 to maximum Life"
+      ]
+    },
+    "Sandsworn Tiara": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "90% increased [EnergyShield|Energy Shield]",
+        "+32 to maximum Life",
+        "19% increased [ItemRarity|Rarity of Items] found"
+      ]
+    },
+    "Wrapped Cap": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": []
+    },
+    "Divine Crown": {
+      "base_price": {
+        "amount": 3,
+        "currency": "regal",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "82% increased [Armour|Armour] and [EnergyShield|Energy Shield]",
+        "+44% to [Resistances|Cold Resistance]",
+        "+33% to [Resistances|Lightning Resistance]"
+      ]
+    },
+    "Paragon Greathelm": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "+190 to [Armour|Armour]",
+        "77% increased [Armour|Armour]",
+        "+38% to [Resistances|Fire Resistance]"
+      ]
+    },
+    "Trapper Hood": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "+14 to [Evasion] Rating",
+        "+117 to maximum Mana",
+        "+14 to [Intelligence|Intelligence]"
+      ]
+    },
+    "Noble Greathelm": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "72% increased [Armour|Armour]",
+        "+153 to maximum Life",
+        "+87 to maximum Mana"
+      ]
+    },
+    "Sirenscale Gloves": {
+      "base_price": {
+        "amount": 2,
+        "currency": "regal",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "Adds 10 to 16 [Physical|Physical] Damage to [Attack|Attacks]",
+        "+33 to maximum Life",
+        "+102 to maximum Mana"
+      ]
+    },
+    "Feathered Mitts": {
+      "base_price": {
+        "amount": 1,
+        "currency": "transmute",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "10% increased [Armour|Armour]",
+        "+153 to maximum Life",
+        "+57 to maximum Mana"
+      ]
+    },
+    "Ancient Mitts": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "100% increased [Armour|Armour]",
+        "+32 to maximum Life",
+        "+23% to [Resistances|Fire Resistance]"
+      ]
+    },
+    "War Wraps": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "131% increased [Evasion] and [EnergyShield|Energy Shield]",
+        "Adds 16 to 23 [Fire] damage to [Attack|Attacks]",
+        "+34 to maximum Life"
+      ]
+    },
+    "Cultist Gauntlets": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 84
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "Adds 7 to 20 [Physical|Physical] Damage to [Attack|Attacks]",
+        "+66 to maximum Life",
+        "+122 to maximum Mana"
+      ]
+    },
+    "Blacksteel Gauntlets": {
+      "base_price": {
+        "amount": 1,
+        "currency": "alch",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "Adds 11 to 23 [Fire] damage to [Attack|Attacks]",
+        "+87 to maximum Mana",
+        "32% increased [CriticalDamageBonus|Critical Damage Bonus]"
+      ]
+    },
+    "Secured Wraps": {
+      "base_price": {
+        "amount": 1,
+        "currency": "alch",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "74% increased [Evasion] and [EnergyShield|Energy Shield]",
+        "Adds 12 to 24 [Fire] damage to [Attack|Attacks]",
+        "+368 to [Accuracy|Accuracy] Rating"
+      ]
+    },
+    "Ornate Mitts": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "Adds 6 to 11 [Physical|Physical] Damage to [Attack|Attacks]",
+        "Adds 12 to 19 [Cold] damage to [Attack|Attacks]",
+        "15% increased [ItemRarity|Rarity of Items] found"
+      ]
+    },
+    "Noble Sabatons": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "30% increased Movement Speed",
+        "+56 to [Armour|Armour]",
+        "+54 to [Evasion] Rating"
+      ]
+    },
+    "Steelpoint Shoes": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "30% increased Movement Speed",
+        "39% increased [Evasion] and [EnergyShield|Energy Shield]",
+        "+108 to maximum Mana"
+      ]
+    },
+    "Bulwark Greaves": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "+31 to [Strength|Strength]"
+      ]
+    },
+    "Cinched Boots": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "30% increased Movement Speed",
+        "94% increased [Evasion|Evasion] Rating",
+        "+40% to [Resistances|Cold Resistance]"
+      ]
+    },
+    "Tasalian Greaves": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "30% increased Movement Speed",
+        "+61 to maximum Life",
+        "+107 to maximum Mana"
+      ]
+    },
+    "Drakeskin Boots": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "35% increased Movement Speed",
+        "88% increased [Evasion|Evasion] Rating",
+        "+106 to maximum Life"
+      ]
+    },
+    "Sekhema Sandals": {
+      "base_price": {
+        "amount": 1,
+        "currency": "alch",
+        "ilvl": 83
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "35% increased Movement Speed",
+        "+103 to maximum Life",
+        "+97 to maximum Mana"
+      ]
+    },
+    "Reefsteel Greaves": {
+      "base_price": {
+        "amount": 1,
+        "currency": "alch",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "20% increased Movement Speed",
+        "24% increased [Armour|Armour]",
+        "+90 to maximum Life"
+      ]
+    },
+    "Feathered Sandals": {
+      "base_price": {
+        "amount": 2,
+        "currency": "alch",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "15% increased Movement Speed",
+        "+34 to maximum [EnergyShield|Energy Shield]",
+        "29% increased [EnergyShield|Energy Shield]"
+      ]
+    },
+    "Azure Amulet": {
+      "base_price": {
+        "amount": 1,
+        "currency": "regal",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "6% increased maximum Life",
+        "+44 to [Spirit|Spirit]",
+        "+2 to Level of all [Projectile] Skills"
+      ]
+    },
+    "Amber Amulet": {
+      "base_price": {
+        "amount": 1,
+        "currency": "alch",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "47% increased [Armour]",
+        "7% increased maximum Life",
+        "+26 to [Strength|Strength]"
+      ]
+    },
+    "Jade Amulet": {
+      "base_price": {
+        "amount": 2,
+        "currency": "regal",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "35% increased [Armour]",
+        "46% increased maximum [EnergyShield|Energy Shield]",
+        "19% increased [ItemRarity|Rarity of Items] found"
+      ]
+    },
+    "Solar Amulet": {
+      "base_price": {
+        "amount": 1,
+        "currency": "alch",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "37% increased maximum [EnergyShield|Energy Shield]",
+        "+152 to maximum Mana",
+        "+49 to [Spirit|Spirit]"
+      ]
+    },
+    "Gold Amulet": {
+      "base_price": {
+        "amount": 1,
+        "currency": "regal",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "+68 to maximum [EnergyShield|Energy Shield]",
+        "33% increased maximum [EnergyShield|Energy Shield]",
+        "+145 to maximum Mana"
+      ]
+    },
+    "Gold Ring": {
+      "base_price": {
+        "amount": 1,
+        "currency": "alch",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "Adds 1 to 32 [Lightning] damage to [Attack|Attacks]",
+        "21% increased Cast Speed",
+        "+16% to [Resistances|Lightning Resistance]"
+      ]
+    },
+    "Breach Ring": {
+      "base_price": {
+        "amount": 1,
+        "currency": "alch",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "Adds 36 to 61 [Fire] damage to [Attack|Attacks]",
+        "36% increased [Fire] Damage",
+        "+97 to maximum Mana"
+      ]
+    },
+    "Ruby Ring": {
+      "base_price": {
+        "amount": 1,
+        "currency": "transmute",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "26% increased [Lightning] Damage",
+        "+402 to [Accuracy|Accuracy] Rating",
+        "15% increased [ItemRarity|Rarity of Items] found"
+      ]
+    },
+    "Prismatic Ring": {
+      "base_price": {
+        "amount": 1,
+        "currency": "regal",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "Adds 4 to 9 [Physical|Physical] Damage to [Attack|Attacks]",
+        "Adds 10 to 16 [Fire] damage to [Attack|Attacks]",
+        "+18 to [Dexterity|Dexterity]"
+      ]
+    },
+    "Iron Ring": {
+      "base_price": {
+        "amount": 1,
+        "currency": "alch",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "26% increased [Chaos] Damage",
+        "18% increased [ItemRarity|Rarity of Items] found",
+        "+40% to [Resistances|Cold Resistance]"
+      ]
+    },
+    "Amethyst Ring": {
+      "base_price": {
+        "amount": 1,
+        "currency": "aug",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "Adds 19 to 22 [Physical|Physical] Damage to [Attack|Attacks]",
+        "+118 to maximum Life",
+        "+40% to [Resistances|Lightning Resistance]"
+      ]
+    },
+    "Topaz Ring": {
+      "base_price": {
+        "amount": 2,
+        "currency": "regal",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "+41 to [Accuracy|Accuracy] Rating",
+        "+48 to [Evasion] Rating",
+        "+11 to [Dexterity|Dexterity]"
+      ]
+    },
+    "Long Belt": {
+      "base_price": {
+        "amount": 2,
+        "currency": "regal",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "22% increased [Flask] Mana Recovery rate",
+        "12% increased [Charm] Charges gained"
+      ]
+    },
+    "Utility Belt": {
+      "base_price": {
+        "amount": 1,
+        "currency": "alch",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "+253 to [Armour]",
+        "+149 to maximum Life",
+        "36% increased [Flask] Mana Recovery rate"
+      ]
+    },
+    "Linen Belt": {
+      "base_price": {
+        "amount": 3,
+        "currency": "regal",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "21% increased [Flask|Flask] Charges gained"
+      ]
+    },
+    "Heavy Belt": {
+      "base_price": {
+        "amount": 1,
+        "currency": "transmute",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": []
+    },
+    "Plate Belt": {
+      "base_price": {
+        "amount": 1,
+        "currency": "alch",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "+72 to maximum Mana",
+        "33% increased [Flask] Life Recovery rate",
+        "+39% to [Resistances|Fire Resistance]"
+      ]
+    },
+    "Rawhide Belt": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "+169 to maximum Life",
+        "+58 to maximum Mana",
+        "28% increased [Flask] Life Recovery rate"
+      ]
+    },
+    "Guardian Bow": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "158% increased [Physical] Damage",
+        "Adds 22 to 33 [Physical|Physical] Damage",
+        "Adds 4 to 73 [Lightning|Lightning] Damage"
+      ]
+    },
+    "Obliterator Bow": {
+      "base_price": {
+        "amount": 1,
+        "currency": "alch",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": []
+    },
+    "Warmonger Bow": {
+      "base_price": {
+        "amount": 1,
+        "currency": "aug",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "147% increased [Physical] Damage",
+        "Adds 21 to 29 [Physical|Physical] Damage",
+        "+3 to Level of all [Attack] Skills"
+      ]
+    },
+    "Gemini Bow": {
+      "base_price": {
+        "amount": 1,
+        "currency": "alch",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "Adds 14 to 20 [Physical|Physical] Damage",
+        "72% increased [ElementalDamage|Elemental] Damage with [Attack|Attacks]",
+        "+4.27% to [Critical|Critical Hit] Chance"
+      ]
+    },
+    "Militant Bow": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "148% increased [Physical] Damage",
+        "Adds 8 to 189 [Lightning|Lightning] Damage",
+        "80% increased [ElementalDamage|Elemental] Damage with [Attack|Attacks]"
+      ]
+    },
+    "Sanctified Staff": {
+      "base_price": {
+        "amount": 1,
+        "currency": "alch",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "[Gain] 45% of Damage as Extra [Fire] Damage",
+        "[Gain] 30% of Damage as Extra [Cold] Damage",
+        "[Gain] 59% of Damage as Extra [Lightning] Damage"
+      ]
+    },
+    "Chiming Staff": {
+      "base_price": {
+        "amount": 1,
+        "currency": "regal",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "[Gain] 50% of Damage as Extra [Lightning] Damage",
+        "84% increased [Spell] Damage",
+        "155% increased [Fire] Damage"
+      ]
+    },
+    "Paralysing Staff": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 83
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "[Gain] 54% of Damage as Extra [Lightning] Damage",
+        "133% increased [Lightning] Damage",
+        "+195 to maximum Mana"
+      ]
+    },
+    "Voltaic Staff": {
+      "base_price": {
+        "amount": 1,
+        "currency": "regal",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "[Gain] 59% of Damage as Extra [Fire] Damage",
+        "[Gain] 49% of Damage as Extra [Cold] Damage",
+        "183% increased [Lightning] Damage"
+      ]
+    },
+    "Reaping Staff": {
+      "base_price": {
+        "amount": 1,
+        "currency": "regal",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "130% increased [Spell] Damage",
+        "+168 to maximum Mana",
+        "35% reduced [Attributes|Attribute] Requirements"
+      ]
+    },
+    "Pyrophyte Staff": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "[Gain] 43% of Damage as Extra [Fire] Damage",
+        "[Gain] 44% of Damage as Extra [Cold] Damage",
+        "[Gain] 38% of Damage as Extra [Lightning] Damage"
+      ]
+    },
+    "Ashen Staff": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "[Gain] 46% of Damage as Extra [Fire] Damage",
+        "234% increased [Spell] Damage",
+        "131% increased [Fire] Damage"
+      ]
+    },
+    "Withered Wand": {
+      "base_price": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 82
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "[Gain] 17% of Damage as Extra [Cold] Damage",
+        "30% increased [Spell] Damage",
+        "29% increased [Chaos] Damage"
+      ]
+    },
+    "Dueling Wand": {
+      "base_price": {
+        "amount": 1,
+        "currency": "alch",
+        "ilvl": 81
+      },
+      "finished_price": {
+        "amount": 50,
+        "currency": "divine"
+      },
+      "sample_mods": [
+        "[Gain] 30% of Damage as Extra [Lightning] Damage",
+        "96% increased [Spell] Damage",
+        "75% increased [Spell] [Physical] Damage"
+      ]
+    }
+  },
+  "last_update": "2026-01-15T21:20:27.670438"
+}

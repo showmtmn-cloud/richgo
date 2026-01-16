@@ -1,0 +1,18 @@
+# PoE2DB Scraper Requirements
+
+# HTTP 요청
+requests>=2.31.0
+
+# HTML 파싱
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# 데이터베이스
+sqlalchemy>=2.0.0
+
+# JSON 처리 (표준 라이브러리에 포함, 명시용)
+# json - built-in
+
+# 선택적: 비동기 스크래핑 (더 빠른 수집)
+# aiohttp>=3.9.0
+# asyncio - built-in

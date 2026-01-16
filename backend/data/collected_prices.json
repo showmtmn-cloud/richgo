@@ -1,0 +1,646 @@
+{
+  "items": {
+    "Acrid Wand": {
+      "type": "Weapons",
+      "lowest": {
+        "amount": 30,
+        "currency": "exalted",
+        "ilvl": 81
+      },
+      "all_prices": [
+        {
+          "amount": 30,
+          "currency": "exalted",
+          "ilvl": 81
+        },
+        {
+          "amount": 10,
+          "currency": "divine",
+          "ilvl": 80
+        },
+        {
+          "amount": 10,
+          "currency": "divine",
+          "ilvl": 80
+        }
+      ],
+      "collected_at": "2026-01-15T20:18:33.592533"
+    },
+    "Adherent Bow": {
+      "type": "Weapons",
+      "lowest": {
+        "amount": 100,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "all_prices": [
+        {
+          "amount": 100,
+          "currency": "exalted",
+          "ilvl": 80
+        },
+        {
+          "amount": 100,
+          "currency": "exalted",
+          "ilvl": 80
+        },
+        {
+          "amount": 100,
+          "currency": "exalted",
+          "ilvl": 80
+        }
+      ],
+      "collected_at": "2026-01-15T20:18:41.085407"
+    },
+    "Adherent Cuffs": {
+      "type": "Armour",
+      "lowest": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 84
+      },
+      "all_prices": [
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 84
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 82
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 81
+        }
+      ],
+      "collected_at": "2026-01-15T20:18:48.621788"
+    },
+    "Adherent's Raiment": {
+      "type": "Armour",
+      "lowest": {
+        "amount": 1,
+        "currency": "divine",
+        "ilvl": 82
+      },
+      "all_prices": [
+        {
+          "amount": 1,
+          "currency": "divine",
+          "ilvl": 82
+        },
+        {
+          "amount": 65,
+          "currency": "chaos",
+          "ilvl": 80
+        },
+        {
+          "amount": 2,
+          "currency": "divine",
+          "ilvl": 82
+        }
+      ],
+      "collected_at": "2026-01-15T20:19:01.424346"
+    },
+    "Adorned Wraps": {
+      "type": "Armour",
+      "lowest": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 82
+      },
+      "all_prices": [
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 82
+        },
+        {
+          "amount": 5,
+          "currency": "exalted",
+          "ilvl": 79
+        },
+        {
+          "amount": 10,
+          "currency": "exalted",
+          "ilvl": 82
+        }
+      ],
+      "collected_at": "2026-01-15T20:19:14.241033"
+    },
+    "Aegis Quarterstaff": {
+      "type": "Weapons",
+      "lowest": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 81
+      },
+      "all_prices": [
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 81
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 80
+        },
+        {
+          "amount": 5,
+          "currency": "exalted",
+          "ilvl": 81
+        }
+      ],
+      "collected_at": "2026-01-15T20:19:21.757199"
+    },
+    "Aged Cuffs": {
+      "type": "Armour",
+      "lowest": {
+        "amount": 2,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "all_prices": [
+        {
+          "amount": 2,
+          "currency": "exalted",
+          "ilvl": 80
+        },
+        {
+          "amount": 5,
+          "currency": "exalted",
+          "ilvl": 81
+        },
+        {
+          "amount": 10,
+          "currency": "exalted",
+          "ilvl": 81
+        }
+      ],
+      "collected_at": "2026-01-15T20:29:14.201780"
+    },
+    "Akoyan Club": {
+      "type": "Weapons",
+      "lowest": {
+        "amount": 5,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "all_prices": [
+        {
+          "amount": 5,
+          "currency": "exalted",
+          "ilvl": 80
+        },
+        {
+          "amount": 5,
+          "currency": "exalted",
+          "ilvl": 79
+        },
+        {
+          "amount": 10,
+          "currency": "exalted",
+          "ilvl": 81
+        }
+      ],
+      "collected_at": "2026-01-15T20:29:22.475923"
+    },
+    "Akoyan Spear": {
+      "type": "Weapons",
+      "lowest": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 82
+      },
+      "all_prices": [
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 82
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 80
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 80
+        }
+      ],
+      "collected_at": "2026-01-15T20:29:27.500765"
+    },
+    "Alpha Talisman": {
+      "type": "Weapons",
+      "lowest": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "all_prices": [
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 80
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 79
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 80
+        }
+      ],
+      "collected_at": "2026-01-15T20:29:35.774255"
+    },
+    "Altar Robe": {
+      "type": "Armour",
+      "lowest": {
+        "amount": 5,
+        "currency": "exalted",
+        "ilvl": 82
+      },
+      "all_prices": [
+        {
+          "amount": 5,
+          "currency": "exalted",
+          "ilvl": 82
+        },
+        {
+          "amount": 10,
+          "currency": "exalted",
+          "ilvl": 80
+        },
+        {
+          "amount": 2,
+          "currency": "chaos",
+          "ilvl": 80
+        }
+      ],
+      "collected_at": "2026-01-15T20:29:40.779170"
+    },
+    "Amber Amulet": {
+      "type": "Accessories",
+      "lowest": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 78
+      },
+      "all_prices": [
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 78
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 80
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 80
+        }
+      ],
+      "collected_at": "2026-01-15T20:29:45.788856"
+    },
+    "Amethyst Charm": {
+      "type": "Flasks",
+      "lowest": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 79
+      },
+      "all_prices": [
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 79
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 80
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 81
+        }
+      ],
+      "collected_at": "2026-01-15T20:29:50.800134"
+    },
+    "Amethyst Ring": {
+      "type": "Accessories",
+      "lowest": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "all_prices": [
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 80
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 79
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 78
+        }
+      ],
+      "collected_at": "2026-01-15T20:29:55.829025"
+    },
+    "Ancestor Tower Shield": {
+      "type": "Armour",
+      "lowest": {
+        "amount": 1,
+        "currency": "divine",
+        "ilvl": 82
+      },
+      "all_prices": [
+        {
+          "amount": 1,
+          "currency": "divine",
+          "ilvl": 82
+        }
+      ],
+      "collected_at": "2026-01-15T20:30:00.826976"
+    },
+    "Ancestral Mail": {
+      "type": "Armour",
+      "lowest": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "all_prices": [
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 80
+        },
+        {
+          "amount": 1,
+          "currency": "divine",
+          "ilvl": 81
+        }
+      ],
+      "collected_at": "2026-01-15T20:30:05.831585"
+    },
+    "Ancestral Tiara": {
+      "type": "Armour",
+      "lowest": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 81
+      },
+      "all_prices": [
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 81
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 81
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 80
+        }
+      ],
+      "collected_at": "2026-01-15T20:30:10.837878"
+    },
+    "Anchorite Garb": {
+      "type": "Armour",
+      "lowest": {
+        "amount": 8,
+        "currency": "exalted",
+        "ilvl": 82
+      },
+      "all_prices": [
+        {
+          "amount": 8,
+          "currency": "exalted",
+          "ilvl": 82
+        },
+        {
+          "amount": 8,
+          "currency": "exalted",
+          "ilvl": 82
+        },
+        {
+          "amount": 15,
+          "currency": "exalted",
+          "ilvl": 81
+        }
+      ],
+      "collected_at": "2026-01-15T20:30:15.843109"
+    },
+    "Ancient Buckler": {
+      "type": "Armour",
+      "lowest": {
+        "amount": 100,
+        "currency": "exalted",
+        "ilvl": 80
+      },
+      "all_prices": [
+        {
+          "amount": 100,
+          "currency": "exalted",
+          "ilvl": 80
+        },
+        {
+          "amount": 15,
+          "currency": "divine",
+          "ilvl": 82
+        }
+      ],
+      "collected_at": "2026-01-15T20:30:20.877740"
+    },
+    "Ancient Cuffs": {
+      "type": "Armour",
+      "lowest": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 79
+      },
+      "all_prices": [
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 79
+        },
+        {
+          "amount": 5,
+          "currency": "exalted",
+          "ilvl": 81
+        },
+        {
+          "amount": 10,
+          "currency": "exalted",
+          "ilvl": 79
+        }
+      ],
+      "collected_at": "2026-01-15T20:30:25.918274"
+    },
+    "Ancient Mitts": {
+      "type": "Armour",
+      "lowest": {
+        "amount": 1,
+        "currency": "chaos",
+        "ilvl": 82
+      },
+      "all_prices": [
+        {
+          "amount": 1,
+          "currency": "chaos",
+          "ilvl": 82
+        },
+        {
+          "amount": 20,
+          "currency": "exalted",
+          "ilvl": 79
+        },
+        {
+          "amount": 20,
+          "currency": "exalted",
+          "ilvl": 81
+        }
+      ],
+      "collected_at": "2026-01-15T20:31:01.264241"
+    },
+    "Antidote Charm": {
+      "type": "Flasks",
+      "lowest": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 76
+      },
+      "all_prices": [
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 76
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 80
+        },
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 80
+        }
+      ],
+      "collected_at": "2026-01-15T20:31:06.304156"
+    },
+    "Antler Focus": {
+      "type": "Armour",
+      "lowest": {
+        "amount": 10,
+        "currency": "exalted",
+        "ilvl": 82
+      },
+      "all_prices": [
+        {
+          "amount": 10,
+          "currency": "exalted",
+          "ilvl": 82
+        },
+        {
+          "amount": 4,
+          "currency": "divine",
+          "ilvl": 82
+        },
+        {
+          "amount": 4,
+          "currency": "divine",
+          "ilvl": 82
+        }
+      ],
+      "collected_at": "2026-01-15T20:31:11.327079"
+    },
+    "Anvil Maul": {
+      "type": "Weapons",
+      "lowest": {
+        "amount": 20,
+        "currency": "exalted",
+        "ilvl": 82
+      },
+      "all_prices": [
+        {
+          "amount": 20,
+          "currency": "exalted",
+          "ilvl": 82
+        },
+        {
+          "amount": 29,
+          "currency": "exalted",
+          "ilvl": 80
+        },
+        {
+          "amount": 40,
+          "currency": "exalted",
+          "ilvl": 82
+        }
+      ],
+      "collected_at": "2026-01-15T20:31:16.356837"
+    },
+    "Apostle Leggings": {
+      "type": "Armour",
+      "lowest": {
+        "amount": 1,
+        "currency": "exalted",
+        "ilvl": 82
+      },
+      "all_prices": [
+        {
+          "amount": 1,
+          "currency": "exalted",
+          "ilvl": 82
+        },
+        {
+          "amount": 5,
+          "currency": "exalted",
+          "ilvl": 80
+        },
+        {
+          "amount": 5,
+          "currency": "exalted",
+          "ilvl": 82
+        }
+      ],
+      "collected_at": "2026-01-15T20:31:21.384397"
+    }
+  },
+  "last_update": "2026-01-15T20:31:27.916627",
+  "failed": [
+    "Abyssal Flail",
+    "Abyssal Signet",
+    "Adherent Leggings",
+    "Adorned Gloves",
+    "Aged Tower Shield",
+    "Alloy Crossbow",
+    "Ancient Greatblade",
+    "Arcane Dirk",
+    "Arcane Raiment"
+  ]
+}
