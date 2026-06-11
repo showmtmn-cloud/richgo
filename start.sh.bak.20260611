@@ -23,7 +23,7 @@ BACKEND_PID=$!
 
 echo "โ… ๋ฐฑ์—”๋“ ์์‘๋จ (PID: $BACKEND_PID)"
 
-echo "ํ ฝํณ ๋ฐฑ์—”๋“: http://15.134.156.210:8000"
+echo "ํ ฝํณ ๋ฐฑ์—”๋“: http://54.206.165.124:8000"
 
 echo "ํ ฝํณ ๋ก๊ทธ: ~/poe2-profit-optimizer/logs/backend.log"
 

@@ -20,7 +20,7 @@ poe2db_scraper/
 
 ```bash
 # SSH 접속
-ssh ubuntu@54.206.165.124
+ssh ubuntu@15.134.156.210
 
 # 프로젝트 디렉토리로 이동
 cd ~/poe2-profit-optimizer
